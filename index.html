@@ -1,1 +1,568 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>US Choropleth Map by Annual Power Generation</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://d3js.org/topojson.v3.min.js"></script>
+  <script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
+  <style>
+    body { font-family: sans-serif; text-align: center; }
+    h2#title {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .controls {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      width: 960px;
+      padding: 10px 0;
+    }
+    .control-label {
+      margin: 0;
+      text-align: left;
+      white-space: pre-line;
+    }
+    .buttons {
+      display: flex;
+      flex-direction: row;
+      gap: 10px;
+      justify-content: center;
+      padding: 0;
+      margin-top: 10px;
+    }
+    .buttons button {
+      padding: 10px 18px;
+      font-size: 18px;
+      border-radius: 6px;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    svg {
+      width: 960px;
+      height: 600px;
+      display: block;
+    }
+    .legend {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 10px;
+      font-size: 14px;
+    }
+    .legend-bar {
+      width: 300px;
+      height: 12px;
+      margin: 0 10px;
+    }
+    .legend-labels {
+      display: flex;
+      justify-content: space-between;
+      width: 300px;
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .map-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      position: relative;
+    }
+    .legend-stripe {
+      width: 20px;
+      height: 12px;
+      background: repeating-linear-gradient(
+        45deg,
+        #ccc,
+        #ccc 4px,
+        #999 4px,
+        #999 8px
+      );
+      margin-left: 10px;
+      border: 1px solid #666;
+    }
+    .annotation-note-bg {
+      fill: white;
+      fill-opacity: 0.8;
+      stroke: #666;
+      stroke-width: 0.5;
+      rx: 4; /* rounded corners */
+    }
+    .annotation-note-title,
+    .annotation-note-label {
+      fill: #333;
+    }
+    .annotation-note-label{
+      font-size: 14px
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2 id="title"></h2>
+    <div class="main-content">
+      <div class="controls">
+        <p class="control-label"></p>
+        <div class="buttons">
+          <button id="prev">Previous</button>
+          <button id="next">Next</button>
+        </div>
+      </div>
+      <div id="final-controls" style="display: none;">
+        <label>Energy Source:
+          <select id="energySelect">
+            <option>Total</option>
+            <option>Coal</option>
+            <option>Hydroelectric Conventional</option>
+            <option>Natural Gas</option>
+            <option>Solar Thermal and Photovoltaic</option>
+            <option>Wind</option>
+          </select>
+        </label>
+        <label>Month:
+          <select id="monthSelect">
+            <option value="All">All</option>
+            <option value="1">January</option>
+            <option value="2">February</option>
+            <option value="3">March</option>
+            <option value="4">April</option>
+            <option value="5">May</option>
+            <option value="6">June</option>
+            <option value="7">July</option>
+            <option value="8">August</option>
+            <option value="9">September</option>
+            <option value="10">October</option>
+            <option value="11">November</option>
+            <option value="12">December</option>
+          </select>
+        </label>
+      </div>
+      <div class="map-container">
+        <svg></svg>
+        <div class="legend">
+          <span id="minVal">0</span>
+          <div class="legend-bar" id="legendBar"></div>
+          <span id="maxVal">100</span>
+          <div style="display: flex; align-items: center; gap: 10px; margin-left: 15px;">
+            <div class="legend-stripe" title="No data"></div>
+            <span>No Data</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const width = 960, height = 600;
+
+    const projection = d3.geoAlbersUsa()
+      .scale(1300)
+      .translate([width / 2, height / 2]);
+
+    const path = d3.geoPath().projection(projection);
+    const svg = d3.select("svg");
+    const title = d3.select('#title')
+    const legendBar = d3.select("#legendBar");
+    const minValLabel = d3.select("#minVal");
+    const maxValLabel = d3.select("#maxVal");
+
+    const stateAbbrToFIPS = {
+      "AL": "01", "AK": "02", "AZ": "04", "AR": "05", "CA": "06", "CO": "08",
+      "CT": "09", "DE": "10", "FL": "12", "GA": "13", "HI": "15", "ID": "16",
+      "IL": "17", "IN": "18", "IA": "19", "KS": "20", "KY": "21", "LA": "22",
+      "ME": "23", "MD": "24", "MA": "25", "MI": "26", "MN": "27", "MS": "28",
+      "MO": "29", "MT": "30", "NE": "31", "NV": "32", "NH": "33", "NJ": "34",
+      "NM": "35", "NY": "36", "NC": "37", "ND": "38", "OH": "39", "OK": "40",
+      "OR": "41", "PA": "42", "RI": "44", "SC": "45", "SD": "46", "TN": "47",
+      "TX": "48", "UT": "49", "VT": "50", "VA": "51", "WA": "53", "WV": "54",
+      "WI": "55", "WY": "56"
+    };
+    const fipsToAbbr = Object.fromEntries(
+      Object.entries(stateAbbrToFIPS).map(([abbr, fips]) => [fips, abbr])
+    );
+
+    const controlText = d3.select('.control-label')
+
+    Promise.all([
+      d3.json("states-10m.json"),
+      d3.csv("power_generated_by_state_month_energy_source.csv", d => ({
+        state: d.state,
+        month: d.month,
+        energySource: d.energySource,
+        powerGenerated: +d.powerGenerated
+      })),
+      d3.json("text.json")
+    ]).then(([us, rawData, textData]) => {
+
+      // Convert TopoJSON to GeoJSON
+      const states = topojson.feature(us, us.objects.states).features;
+
+      // Group by specific energy sources we care about
+      const nested = d3.group(rawData, d => d.energySource);
+      const energySources = ['Total', 'Natural Gas', 'Solar Thermal and Photovoltaic',
+        'Hydroelectric Conventional', 'Wind', 'Coal', 'Final'
+      ]
+      const energySourcesColorInterpolationsMap = {
+        'Total': d3.interpolateReds,
+        'Natural Gas': d3.interpolateOranges,
+        'Solar Thermal and Photovoltaic': d3.interpolateGreens,
+        'Hydroelectric Conventional': d3.interpolateBlues,
+        'Wind': d3.interpolatePurples,
+        'Coal': d3.interpolateGreys
+      };
+
+      // handles annotations for each energy source
+      const energySourcesAnnotationsMap = {
+        'Total': [{
+          note: {
+            title: "Texas",
+            label: "Texas generates the most elecricity out of any state (roughly 13% of the national total) due to its large population, heavy involvement in industrial activity, and energy exports.",
+            bgPadding: { top: 6, bottom: 6, left: 8, right: 8 },
+            wrap: 250
+          },
+          data: states.find(d => d.properties.name === "Texas"),
+          dy: -30,
+          dx: 50
+        }], 
+        'Natural Gas': [{}],
+        'Solar Thermal and Photovoltaic': [{
+          note: {
+            title: "Nevada",
+            label: "States with traditionally warm and dry climates, such as Nevada, have seen the biggest boost in solar power genearation. 27% of Nevada's electricity is generated using solar power.",
+            bgPadding: { top: 6, bottom: 6, left: 8, right: 8 },
+            wrap: 250
+          },
+          data: states.find(d => d.properties.name === "Nevada"),
+          dy: -30,
+          dx: 50
+        }],
+        'Hydroelectric Conventional': [{
+          note: {
+            title: "Washington",
+            label: "Hydroelectric power is even more geography-dependent than solar as it relies on consistent river flow and snowmelt. As a result, a vast concentration of hydroelectric dams are in the NW part of the United States. The state of Washington has almost 60% of their power generated from hydroelectric.",
+            bgPadding: { top: 6, bottom: 6, left: 8, right: 8 },
+            wrap: 300
+          },
+          data: states.find(d => d.properties.name === "Washington"),
+          dy: 40,
+          dx: 60
+        }],
+        'Wind': [{
+          note: {
+            title: "Iowa",
+            label: "States with a high dependence on wind power are generally located in the Great Plains region, some of the consistently windiest areas in the U.S. Iowa is a prominent leader here, generating collectively about 63% of its energy from wind turbines.",
+            bgPadding: { top: 6, bottom: 6, left: 8, right: 8 },
+            wrap: 300
+          },
+          data: states.find(d => d.properties.name === "Iowa"),
+          dy: -30,
+          dx: 50
+        }],
+        'Coal': [{
+          note: {
+            title: "West Virginia",
+            label: "Despite the steep reduction in coal usage in the U.S., many states still rely on it as their primary energy source. West Virginia in particular has had a long history of economic reliance on the coal mining industry. About 85% of West Virginia's electricity is still generated from coal.",
+            bgPadding: { top: 6, bottom: 6, left: 8, right: 8 },
+            wrap: 300
+          },
+          data: states.find(d => d.properties.name === "West Virginia"),
+          dy: 60,
+          dx: 10
+        }]
+      }     
+
+      // handles which states get called out in the annotations
+      const energySourcesAnnotationStatesMap = {
+        'Total': ['Texas'],
+        'Natural Gas': [],
+        'Solar Thermal and Photovoltaic': ['Nevada'],
+        'Hydroelectric Conventional': ['Washington'],
+        'Wind': ['Iowa'],
+        'Coal': ['West Virginia']
+      }
+
+      function drawChoropleth(energySource, filteredData=null, finalSlide=false) {
+        title.text(`Electric Power Generation by State - ${energySource}`);
+
+        // Aggregate total power generated per state abbreviation
+        if(filteredData == null){
+          filteredData = nested.get(energySource)
+        }
+        const totalsByState = d3.rollup(
+          filteredData,
+          v => d3.sum(v, d => d.powerGenerated),
+          d => d.state
+        );
+
+        // Convert to FIPS-based map
+        const valueById = new Map();
+        for (const [abbr, value] of totalsByState) {
+          const fips = stateAbbrToFIPS[abbr];
+          if (fips) valueById.set(fips, value);
+        }
+
+        // Set up color scale
+        const maxVal = d3.max([...valueById.values()]);
+        const color = d3.scaleSequential()
+          .domain([0, maxVal])
+          .interpolator(energySourcesColorInterpolationsMap[energySource]);
+
+        // Create the 'No Data' swatch pattern if not already created
+        if (svg.select("defs #diagonalHatch").empty()) {
+          const defs = svg.append("defs");
+
+          const pattern = defs.append("pattern")
+            .attr("id", "diagonalHatch")
+            .attr("patternUnits", "userSpaceOnUse")
+            .attr("width", 6)
+            .attr("height", 6);
+
+          pattern.append("rect")
+            .attr("width", 6)
+            .attr("height", 6)
+            .attr("fill", "#eee");
+
+          pattern.append("path")
+            .attr("d", "M0,0 l6,6")
+            .attr("stroke", "gray")
+            .attr("stroke-width", 1);
+        }
+
+        // Select the group that contains the states; create it if it doesn't exist
+        let statesGroup = svg.select("g.states-group");
+        if (statesGroup.empty()) {
+          statesGroup = svg.append("g").classed("states-group", true);
+        }
+
+        // Add annotation group if it doesn't exist
+        let annotationGroup = svg.select("g.hover-annotation");
+        if (annotationGroup.empty()) {
+          annotationGroup = svg.append("g").attr("class", "hover-annotation");
+        }
+
+        const paths = statesGroup.selectAll("path")
+          .data(states, d => d.id);
+
+        // Join new paths if needed
+        paths.join(
+          enter => enter.append("path")
+            .attr("stroke", "#333")
+            .attr("stroke-width", 0.75)
+            .attr("d", path)
+            .attr("fill", d => {
+              const val = valueById.get(d.id);
+              return val != null ? color(val) : "url(#diagonalHatch)";
+            }),
+          update => update
+            .transition()
+            .duration(1000)
+            .attr("fill", d => {
+              const val = valueById.get(d.id);
+              return val != null ? color(val) : "url(#diagonalHatch)";
+            }),
+          exit => exit.remove()
+        );
+
+        // Add the hover functionality
+        paths
+          .on("mouseover", function (event, d) {
+            if (finalSlide) {
+              const val = valueById.get(d.id);
+              if (val == null) return;
+
+              const [x, y] = d3.pointer(event);
+
+              const annotations = [
+                {
+                  note: {
+                    title: d.properties.name,
+                    label: `${val.toLocaleString()} MWh`,
+                    bgPadding: { top: 6, bottom: 6, left: 8, right: 8 },
+                    wrap: 200
+                  },
+                  x,
+                  y,
+                  dy: -30,
+                  dx: 30
+                }
+              ];
+
+              const makeAnnotations = d3.annotation()
+                .type(d3.annotationLabel)
+                .annotations(annotations);
+
+              annotationGroup.call(makeAnnotations);
+            }
+          })
+          .on("mouseout", () => {
+            annotationGroup.selectAll("*").remove();
+          });
+
+        // manage state lables
+        const labelOffsets = {
+          "RI": [20, 15],
+          "DE": [30, 5],
+          "NJ": [5, 5],
+          "MD": [50, 15],
+          "MA": [0, -2],
+          "FL": [15, 0],
+          "LA": [-5, 0],
+          "MI": [10, 10]
+        };
+
+        svg.append("g")
+        .attr("class", "state-labels")
+        .selectAll("text")
+        .data(states)
+        .join("text")
+        .attr("x", d => {
+          const [cx, cy] = path.centroid(d);
+          const abbr = fipsToAbbr[d.id];
+          const offset = labelOffsets[abbr] || [0, 0];
+          return cx + offset[0];
+        })
+        .attr("y", d => {
+          const [cx, cy] = path.centroid(d);
+          const abbr = fipsToAbbr[d.id];
+          const offset = labelOffsets[abbr] || [0, 0];
+          return cy + offset[1];
+        })
+        .text(d => fipsToAbbr[d.id] || "")
+        .attr("text-anchor", "middle")
+        .attr("alignment-baseline", "central")
+        .style("font-size", "10px")
+        .style("fill", "#555")
+        .style("pointer-events", "none");
+
+        const leaderLineStates = new Set(["RI", "DE", "MD"]);
+        svg.append("g")
+        .attr("class", "label-leaders")
+        .selectAll("line")
+        .data(states.filter(d => leaderLineStates.has(fipsToAbbr[d.id])))
+        .join("line")
+        .attr("x1", d => path.centroid(d)[0])
+        .attr("y1", d => path.centroid(d)[1])
+        .attr("x2", d => {
+          const [cx, cy] = path.centroid(d);
+          const [dx, dy] = labelOffsets[fipsToAbbr[d.id]];
+          return cx + dx;
+        })
+        .attr("y2", d => {
+          const [cx, cy] = path.centroid(d);
+          const [dx, dy] = labelOffsets[fipsToAbbr[d.id]];
+          return cy + dy;
+        })
+        .attr("stroke", "#555")
+        .attr("stroke-width", 0.6);
+
+        // this ensures the hover annotation shows up above the state labels
+        annotationGroup.raise();
+
+        // highlight generate the annotations
+        svg.selectAll(".highlight-overlay").remove();
+        svg.selectAll(".annotations").remove();
+        if (energySource in energySourcesAnnotationsMap && !finalSlide) {
+          svg.append("g")
+            .attr("class", "highlight-overlay")
+            .selectAll("path")
+            .data(states.filter(d => energySourcesAnnotationStatesMap[energySource].includes(d.properties.name)))
+            .join("path")
+            .attr("d", path)
+            .attr("fill", "none")
+            .attr("stroke", "black")
+            .attr("stroke-width", 3)
+            .attr("stroke-dasharray", "4 2");
+
+          const makeAnnotations = d3.annotation()
+            .type(d3.annotationLabel)
+            .annotations(energySourcesAnnotationsMap[energySource])
+            .accessors({
+              x: d => path.centroid(d)[0] + 10,
+              y: d => path.centroid(d)[1]
+            });
+
+          svg.append("g")
+            .attr("class", "annotations")
+            .call(makeAnnotations);
+        }
+
+        // Update legend gradient
+        const gradient = energySourcesColorInterpolationsMap[energySource];
+        const n = 50;
+        const canvas = document.createElement("canvas");
+        canvas.width = n;
+        canvas.height = 1;
+        const ctx = canvas.getContext("2d");
+        for (let i = 0; i < n; ++i) {
+          ctx.fillStyle = gradient(i / (n - 1));
+          ctx.fillRect(i, 0, 1, 1);
+        }
+        const dataURL = canvas.toDataURL();
+        legendBar.style("background-image", `url(${dataURL})`);
+        legendBar.style("background-size", "100% 100%");
+
+        minValLabel.text("0");
+        maxValLabel.text(d3.format(".2s")(maxVal) + " MWh");
+
+        // only update the text if it's not the last slide
+        if (!finalSlide){
+          controlText.html(textData[energySource]);
+        }
+        else{
+          controlText.html(textData["Final"])
+        }
+
+        // Disables the previous button if on the first slide
+        function updateButtons() {
+          d3.select("#prev").property("disabled", index === 0);
+        }
+        updateButtons()
+      }
+
+
+      let index = 0;
+      drawChoropleth(energySources[index])
+
+      d3.select("#next").on("click", () => {
+        index = (index + 1) % energySources.length;
+        const finalControls = document.getElementById("final-controls");
+        if (index == energySources.length - 1){
+          finalControls.style.display = "block";
+          d3.selectAll(".buttons")
+            .style("display", "none")
+          drawChoropleth("Total", filteredData=null, finalSlide=true);
+        }
+        else{
+          finalControls.style.display = "none";
+          drawChoropleth(energySources[index]);
+        }
+      });
+
+      d3.select("#prev").on("click", () => {
+        index = (index - 1 + energySources.length) % energySources.length;
+        drawChoropleth(energySources[index]);
+      });
+      
+      d3.select("#energySelect").on("change", updateChoropleth);
+      d3.select("#monthSelect").on("change", updateChoropleth);
+
+      function updateChoropleth() {
+        const selectedEnergy = d3.select("#energySelect").property("value");
+        const selectedMonth = d3.select("#monthSelect").property("value");
+
+        filteredData = nested.get(selectedEnergy)
+        if (selectedMonth !== "All") {
+          filteredData = filteredData.filter(d => d.month === selectedMonth);
+        }
+
+        drawChoropleth(selectedEnergy, filteredData, finalSlide=true);
+      }
+    });
+  </script>
+</body>
+</html>

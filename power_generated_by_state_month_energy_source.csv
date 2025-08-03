@@ -1,0 +1,4078 @@
+state,month,energySource,powerGenerated
+AK,1,Coal,72839
+AK,1,Hydroelectric Conventional,153314
+AK,1,Natural Gas,279622
+AK,1,Other,91400
+AK,1,Solar Thermal and Photovoltaic,790
+AK,1,Total,608532
+AK,1,Wind,10567
+AL,1,Coal,1807929
+AL,1,Hydroelectric Conventional,1126937
+AL,1,Natural Gas,5955110
+AL,1,Other,4219851
+AL,1,Solar Thermal and Photovoltaic,62761
+AL,1,Total,13172589
+AR,1,Coal,2213183
+AR,1,Hydroelectric Conventional,414390
+AR,1,Natural Gas,1847271
+AR,1,Other,1476343
+AR,1,Solar Thermal and Photovoltaic,66828
+AR,1,Total,6018015
+AZ,1,Coal,1364737
+AZ,1,Hydroelectric Conventional,469864
+AZ,1,Natural Gas,3665779
+AZ,1,Other,3000016
+AZ,1,Solar Thermal and Photovoltaic,493871
+AZ,1,Total,9120692
+AZ,1,Wind,126426
+CA,1,Coal,21761
+CA,1,Hydroelectric Conventional,1592974
+CA,1,Natural Gas,9740956
+CA,1,Other,3126312
+CA,1,Solar Thermal and Photovoltaic,2192557
+CA,1,Total,17710886
+CA,1,Wind,1036326
+CO,1,Coal,1890256
+CO,1,Hydroelectric Conventional,117531
+CO,1,Natural Gas,1729929
+CO,1,Other,42497
+CO,1,Solar Thermal and Photovoltaic,266021
+CO,1,Total,5321833
+CO,1,Wind,1275600
+CT,1,Coal,0
+CT,1,Hydroelectric Conventional,48897
+CT,1,Natural Gas,2084261
+CT,1,Other,1396048
+CT,1,Solar Thermal and Photovoltaic,17875
+CT,1,Total,3548386
+CT,1,Wind,1306
+DC,1,Natural Gas,8612
+DC,1,Other,4966
+DC,1,Solar Thermal and Photovoltaic,1737
+DC,1,Total,15316
+DE,1,Coal,17949
+DE,1,Natural Gas,293884
+DE,1,Other,28113
+DE,1,Solar Thermal and Photovoltaic,5522
+DE,1,Total,345709
+DE,1,Wind,239
+FL,1,Coal,828153
+FL,1,Hydroelectric Conventional,22043
+FL,1,Natural Gas,14711021
+FL,1,Other,3133977
+FL,1,Solar Thermal and Photovoltaic,874478
+FL,1,Total,19569672
+GA,1,Coal,2081739
+GA,1,Hydroelectric Conventional,427655
+GA,1,Natural Gas,5077637
+GA,1,Other,4107267
+GA,1,Solar Thermal and Photovoltaic,501137
+GA,1,Total,12195434
+HI,1,Hydroelectric Conventional,6120
+HI,1,Other,679553
+HI,1,Solar Thermal and Photovoltaic,39347
+HI,1,Total,762415
+HI,1,Wind,37396
+IA,1,Coal,1821544
+IA,1,Hydroelectric Conventional,73206
+IA,1,Natural Gas,821711
+IA,1,Other,27591
+IA,1,Solar Thermal and Photovoltaic,18833
+IA,1,Total,6127667
+IA,1,Wind,3364782
+ID,1,Coal,0
+ID,1,Hydroelectric Conventional,706703
+ID,1,Natural Gas,599589
+ID,1,Other,38008
+ID,1,Solar Thermal and Photovoltaic,32368
+ID,1,Total,1591873
+ID,1,Wind,215205
+IL,1,Coal,3047419
+IL,1,Hydroelectric Conventional,6961
+IL,1,Natural Gas,2425667
+IL,1,Other,8904230
+IL,1,Solar Thermal and Photovoltaic,92918
+IL,1,Total,16629770
+IL,1,Wind,2152575
+IN,1,Coal,5105528
+IN,1,Hydroelectric Conventional,47722
+IN,1,Natural Gas,3177549
+IN,1,Other,278301
+IN,1,Solar Thermal and Photovoltaic,72068
+IN,1,Total,9601864
+IN,1,Wind,920697
+KS,1,Coal,1761970
+KS,1,Hydroelectric Conventional,719
+KS,1,Natural Gas,309638
+KS,1,Other,952159
+KS,1,Solar Thermal and Photovoltaic,4291
+KS,1,Total,5173696
+KS,1,Wind,2144918
+KY,1,Coal,4776066
+KY,1,Hydroelectric Conventional,416613
+KY,1,Natural Gas,1561952
+KY,1,Other,47954
+KY,1,Solar Thermal and Photovoltaic,5457
+KY,1,Total,6808042
+LA,1,Coal,700989
+LA,1,Hydroelectric Conventional,77430
+LA,1,Natural Gas,6596531
+LA,1,Other,1105086
+LA,1,Solar Thermal and Photovoltaic,33625
+LA,1,Total,8513661
+MA,1,Coal,0
+MA,1,Hydroelectric Conventional,127674
+MA,1,Natural Gas,1753999
+MA,1,Other,163349
+MA,1,Solar Thermal and Photovoltaic,109203
+MA,1,Total,2169806
+MA,1,Wind,15581
+MD,1,Coal,294045
+MD,1,Hydroelectric Conventional,287930
+MD,1,Natural Gas,1035240
+MD,1,Other,1400779
+MD,1,Solar Thermal and Photovoltaic,48449
+MD,1,Total,3134292
+MD,1,Wind,67849
+ME,1,Coal,2069
+ME,1,Hydroelectric Conventional,367373
+ME,1,Natural Gas,399910
+ME,1,Other,181856
+ME,1,Solar Thermal and Photovoltaic,38432
+ME,1,Total,1246357
+ME,1,Wind,256717
+MI,1,Coal,2189916
+MI,1,Hydroelectric Conventional,118736
+MI,1,Natural Gas,4852825
+MI,1,Other,2763255
+MI,1,Solar Thermal and Photovoltaic,56513
+MI,1,Total,10837612
+MI,1,Wind,856364
+MN,1,Coal,1748064
+MN,1,Hydroelectric Conventional,64398
+MN,1,Natural Gas,1458432
+MN,1,Other,551335
+MN,1,Solar Thermal and Photovoltaic,107194
+MN,1,Total,5143501
+MN,1,Wind,1214078
+MO,1,Coal,4686209
+MO,1,Hydroelectric Conventional,120013
+MO,1,Natural Gas,918893
+MO,1,Other,989680
+MO,1,Solar Thermal and Photovoltaic,8403
+MO,1,Total,7251864
+MO,1,Wind,528666
+MS,1,Coal,369616
+MS,1,Natural Gas,5386686
+MS,1,Other,1030791
+MS,1,Solar Thermal and Photovoltaic,44240
+MS,1,Total,6831333
+MT,1,Coal,1048676
+MT,1,Hydroelectric Conventional,744495
+MT,1,Natural Gas,112878
+MT,1,Other,69383
+MT,1,Solar Thermal and Photovoltaic,11880
+MT,1,Total,2455712
+MT,1,Wind,468400
+NC,1,Coal,2471125
+NC,1,Hydroelectric Conventional,589810
+NC,1,Natural Gas,4322984
+NC,1,Other,4164850
+NC,1,Solar Thermal and Photovoltaic,633631
+NC,1,Total,12236180
+NC,1,Wind,53780
+ND,1,Coal,2352836
+ND,1,Hydroelectric Conventional,180293
+ND,1,Natural Gas,271979
+ND,1,Other,10832
+ND,1,Total,3978909
+ND,1,Wind,1162968
+NE,1,Coal,1747496
+NE,1,Hydroelectric Conventional,97514
+NE,1,Natural Gas,133571
+NE,1,Other,608216
+NE,1,Solar Thermal and Photovoltaic,3886
+NE,1,Total,3437185
+NE,1,Wind,846501
+NH,1,Coal,28596
+NH,1,Hydroelectric Conventional,183285
+NH,1,Natural Gas,363819
+NH,1,Other,1013434
+NH,1,Solar Thermal and Photovoltaic,173
+NH,1,Total,1632222
+NH,1,Wind,42915
+NJ,1,Coal,0
+NJ,1,Hydroelectric Conventional,442
+NJ,1,Natural Gas,2849840
+NJ,1,Other,2679406
+NJ,1,Solar Thermal and Photovoltaic,85387
+NJ,1,Total,5616911
+NJ,1,Wind,1837
+NM,1,Coal,940080
+NM,1,Hydroelectric Conventional,15850
+NM,1,Natural Gas,1175756
+NM,1,Other,3540
+NM,1,Solar Thermal and Photovoltaic,188210
+NM,1,Total,3603080
+NM,1,Wind,1279645
+NV,1,Coal,241855
+NV,1,Hydroelectric Conventional,56972
+NV,1,Natural Gas,2462424
+NV,1,Other,383750
+NV,1,Solar Thermal and Photovoltaic,480816
+NV,1,Total,3649295
+NV,1,Wind,23477
+NY,1,Coal,0
+NY,1,Hydroelectric Conventional,2613144
+NY,1,Natural Gas,5207358
+NY,1,Other,2792002
+NY,1,Solar Thermal and Photovoltaic,140703
+NY,1,Total,11247816
+NY,1,Wind,494609
+OH,1,Coal,3721026
+OH,1,Hydroelectric Conventional,53710
+OH,1,Natural Gas,7668189
+OH,1,Other,1789397
+OH,1,Solar Thermal and Photovoltaic,88078
+OH,1,Total,13613801
+OH,1,Wind,293401
+OK,1,Coal,936459
+OK,1,Hydroelectric Conventional,209492
+OK,1,Natural Gas,4530945
+OK,1,Other,31966
+OK,1,Solar Thermal and Photovoltaic,3873
+OK,1,Total,8424306
+OK,1,Wind,2711570
+OR,1,Hydroelectric Conventional,2441715
+OR,1,Natural Gas,2292693
+OR,1,Other,101920
+OR,1,Solar Thermal and Photovoltaic,73831
+OR,1,Total,5560771
+OR,1,Wind,650613
+PA,1,Coal,2553278
+PA,1,Hydroelectric Conventional,329341
+PA,1,Natural Gas,11692638
+PA,1,Other,6869761
+PA,1,Solar Thermal and Photovoltaic,35018
+PA,1,Total,21797190
+PA,1,Wind,317155
+RI,1,Coal,0
+RI,1,Hydroelectric Conventional,895
+RI,1,Natural Gas,616347
+RI,1,Other,26211
+RI,1,Solar Thermal and Photovoltaic,25514
+RI,1,Total,688843
+RI,1,Wind,19876
+SC,1,Coal,1630319
+SC,1,Hydroelectric Conventional,339131
+SC,1,Natural Gas,1749583
+SC,1,Other,5220005
+SC,1,Solar Thermal and Photovoltaic,158804
+SC,1,Total,9097842
+SD,1,Coal,209212
+SD,1,Hydroelectric Conventional,357473
+SD,1,Natural Gas,228693
+SD,1,Other,4253
+SD,1,Solar Thermal and Photovoltaic,9905
+SD,1,Total,1722077
+SD,1,Wind,912542
+TN,1,Coal,1953880
+TN,1,Hydroelectric Conventional,912873
+TN,1,Natural Gas,1602195
+TN,1,Other,3419486
+TN,1,Solar Thermal and Photovoltaic,46621
+TN,1,Total,7937426
+TN,1,Wind,2371
+TX,1,Coal,7058663
+TX,1,Hydroelectric Conventional,154176
+TX,1,Natural Gas,24650599
+TX,1,Other,3860027
+TX,1,Solar Thermal and Photovoltaic,1957664
+TX,1,Total,47150919
+TX,1,Wind,9469790
+UT,1,Coal,1070622
+UT,1,Hydroelectric Conventional,67051
+UT,1,Natural Gas,1160094
+UT,1,Other,61581
+UT,1,Solar Thermal and Photovoltaic,200985
+UT,1,Total,2623995
+UT,1,Wind,63662
+VA,1,Coal,365303
+VA,1,Hydroelectric Conventional,146333
+VA,1,Natural Gas,5535706
+VA,1,Other,3040652
+VA,1,Solar Thermal and Photovoltaic,292555
+VA,1,Total,9385824
+VA,1,Wind,5276
+VT,1,Hydroelectric Conventional,154298
+VT,1,Natural Gas,174
+VT,1,Other,50300
+VT,1,Solar Thermal and Photovoltaic,7639
+VT,1,Total,233939
+VT,1,Wind,21527
+WA,1,Coal,305284
+WA,1,Hydroelectric Conventional,5091254
+WA,1,Natural Gas,1909209
+WA,1,Other,1000760
+WA,1,Solar Thermal and Photovoltaic,11484
+WA,1,Total,8954327
+WA,1,Wind,636336
+WI,1,Coal,2598060
+WI,1,Hydroelectric Conventional,164082
+WI,1,Natural Gas,2403747
+WI,1,Other,1006976
+WI,1,Solar Thermal and Photovoltaic,79888
+WI,1,Total,6409705
+WI,1,Wind,156952
+WV,1,Coal,4985929
+WV,1,Hydroelectric Conventional,160467
+WV,1,Natural Gas,254053
+WV,1,Other,10361
+WV,1,Solar Thermal and Photovoltaic,1938
+WV,1,Total,5640405
+WV,1,Wind,227656
+WY,1,Coal,2670296
+WY,1,Hydroelectric Conventional,76706
+WY,1,Natural Gas,247328
+WY,1,Other,42125
+WY,1,Solar Thermal and Photovoltaic,6202
+WY,1,Total,3884962
+WY,1,Wind,842305
+AK,2,Coal,74876
+AK,2,Hydroelectric Conventional,130515
+AK,2,Natural Gas,231610
+AK,2,Other,76310
+AK,2,Solar Thermal and Photovoltaic,1007
+AK,2,Total,525466
+AK,2,Wind,11148
+AL,2,Coal,1367487
+AL,2,Hydroelectric Conventional,985176
+AL,2,Natural Gas,4104173
+AL,2,Other,3603518
+AL,2,Solar Thermal and Photovoltaic,80538
+AL,2,Total,10140892
+AR,2,Coal,1306366
+AR,2,Hydroelectric Conventional,333328
+AR,2,Natural Gas,887354
+AR,2,Other,1380309
+AR,2,Solar Thermal and Photovoltaic,109269
+AR,2,Total,4016625
+AZ,2,Coal,967756
+AZ,2,Hydroelectric Conventional,426028
+AZ,2,Natural Gas,3099062
+AZ,2,Other,2744870
+AZ,2,Solar Thermal and Photovoltaic,578467
+AZ,2,Total,8011307
+AZ,2,Wind,195125
+CA,2,Coal,17937
+CA,2,Hydroelectric Conventional,2536335
+CA,2,Natural Gas,6605467
+CA,2,Other,2855676
+CA,2,Solar Thermal and Photovoltaic,2560121
+CA,2,Total,15788093
+CA,2,Wind,1212557
+CO,2,Coal,1628431
+CO,2,Hydroelectric Conventional,104082
+CO,2,Natural Gas,1410356
+CO,2,Other,29788
+CO,2,Solar Thermal and Photovoltaic,314879
+CO,2,Total,4923924
+CO,2,Wind,1436388
+CT,2,Coal,0
+CT,2,Hydroelectric Conventional,44574
+CT,2,Natural Gas,1794766
+CT,2,Other,1555611
+CT,2,Solar Thermal and Photovoltaic,31356
+CT,2,Total,3427383
+CT,2,Wind,1077
+DC,2,Natural Gas,9412
+DC,2,Other,4820
+DC,2,Solar Thermal and Photovoltaic,2296
+DC,2,Total,16528
+DE,2,Coal,-2417
+DE,2,Natural Gas,300903
+DE,2,Other,19343
+DE,2,Solar Thermal and Photovoltaic,10679
+DE,2,Total,328563
+DE,2,Wind,55
+FL,2,Coal,333935
+FL,2,Hydroelectric Conventional,20559
+FL,2,Natural Gas,12385613
+FL,2,Other,3078576
+FL,2,Solar Thermal and Photovoltaic,1307971
+FL,2,Total,17126655
+GA,2,Coal,1222833
+GA,2,Hydroelectric Conventional,293215
+GA,2,Natural Gas,4418795
+GA,2,Other,3476031
+GA,2,Solar Thermal and Photovoltaic,568746
+GA,2,Total,9979620
+HI,2,Hydroelectric Conventional,5601
+HI,2,Other,561917
+HI,2,Solar Thermal and Photovoltaic,43070
+HI,2,Total,668191
+HI,2,Wind,57603
+IA,2,Coal,616142
+IA,2,Hydroelectric Conventional,65291
+IA,2,Natural Gas,707467
+IA,2,Other,25471
+IA,2,Solar Thermal and Photovoltaic,37680
+IA,2,Total,5518784
+IA,2,Wind,4066734
+ID,2,Coal,0
+ID,2,Hydroelectric Conventional,611009
+ID,2,Natural Gas,533262
+ID,2,Other,48426
+ID,2,Solar Thermal and Photovoltaic,43616
+ID,2,Total,1462261
+ID,2,Wind,225947
+IL,2,Coal,1745075
+IL,2,Hydroelectric Conventional,6964
+IL,2,Natural Gas,2261117
+IL,2,Other,7979962
+IL,2,Solar Thermal and Photovoltaic,175160
+IL,2,Total,14511454
+IL,2,Wind,2343175
+IN,2,Coal,2785545
+IN,2,Hydroelectric Conventional,43157
+IN,2,Natural Gas,3095445
+IN,2,Other,164823
+IN,2,Solar Thermal and Photovoltaic,151895
+IN,2,Total,7162626
+IN,2,Wind,921762
+KS,2,Coal,543702
+KS,2,Hydroelectric Conventional,1071
+KS,2,Natural Gas,274822
+KS,2,Other,868586
+KS,2,Solar Thermal and Photovoltaic,5035
+KS,2,Total,4426327
+KS,2,Wind,2733112
+KY,2,Coal,3606734
+KY,2,Hydroelectric Conventional,375147
+KY,2,Natural Gas,1017593
+KY,2,Other,42686
+KY,2,Solar Thermal and Photovoltaic,9924
+KY,2,Total,5052083
+LA,2,Coal,335772
+LA,2,Hydroelectric Conventional,68238
+LA,2,Natural Gas,4826305
+LA,2,Other,1600407
+LA,2,Solar Thermal and Photovoltaic,49323
+LA,2,Total,6880046
+MA,2,Coal,0
+MA,2,Hydroelectric Conventional,116340
+MA,2,Natural Gas,1272047
+MA,2,Other,110190
+MA,2,Solar Thermal and Photovoltaic,147233
+MA,2,Total,1656926
+MA,2,Wind,11116
+MD,2,Coal,85072
+MD,2,Hydroelectric Conventional,198916
+MD,2,Natural Gas,781214
+MD,2,Other,781938
+MD,2,Solar Thermal and Photovoltaic,70547
+MD,2,Total,1965562
+MD,2,Wind,47874
+ME,2,Coal,3068
+ME,2,Hydroelectric Conventional,345944
+ME,2,Natural Gas,259770
+ME,2,Other,147920
+ME,2,Solar Thermal and Photovoltaic,62271
+ME,2,Total,1102324
+ME,2,Wind,283352
+MI,2,Coal,1366515
+MI,2,Hydroelectric Conventional,101091
+MI,2,Natural Gas,4584939
+MI,2,Other,2612330
+MI,2,Solar Thermal and Photovoltaic,118689
+MI,2,Total,9626612
+MI,2,Wind,843049
+MN,2,Coal,877092
+MN,2,Hydroelectric Conventional,55801
+MN,2,Natural Gas,1198568
+MN,2,Other,859753
+MN,2,Solar Thermal and Photovoltaic,152904
+MN,2,Total,4460949
+MN,2,Wind,1316831
+MO,2,Coal,2460480
+MO,2,Hydroelectric Conventional,89178
+MO,2,Natural Gas,578178
+MO,2,Other,650144
+MO,2,Solar Thermal and Photovoltaic,12166
+MO,2,Total,4543633
+MO,2,Wind,753488
+MS,2,Coal,127973
+MS,2,Natural Gas,4191399
+MS,2,Other,1082102
+MS,2,Solar Thermal and Photovoltaic,56229
+MS,2,Total,5457704
+MT,2,Coal,940445
+MT,2,Hydroelectric Conventional,639939
+MT,2,Natural Gas,77902
+MT,2,Other,66975
+MT,2,Solar Thermal and Photovoltaic,19133
+MT,2,Total,2268529
+MT,2,Wind,524135
+NC,2,Coal,973536
+NC,2,Hydroelectric Conventional,458435
+NC,2,Natural Gas,4338648
+NC,2,Other,3397527
+NC,2,Solar Thermal and Photovoltaic,807204
+NC,2,Total,10026148
+NC,2,Wind,50797
+ND,2,Coal,1945677
+ND,2,Hydroelectric Conventional,153815
+ND,2,Natural Gas,238220
+ND,2,Other,11719
+ND,2,Total,3620175
+ND,2,Wind,1270745
+NE,2,Coal,1304734
+NE,2,Hydroelectric Conventional,83460
+NE,2,Natural Gas,61458
+NE,2,Other,569997
+NE,2,Solar Thermal and Photovoltaic,5109
+NE,2,Total,3110906
+NE,2,Wind,1086148
+NH,2,Coal,0
+NH,2,Hydroelectric Conventional,155249
+NH,2,Natural Gas,196166
+NH,2,Other,939210
+NH,2,Solar Thermal and Photovoltaic,241
+NH,2,Total,1333528
+NH,2,Wind,42663
+NJ,2,Coal,0
+NJ,2,Hydroelectric Conventional,288
+NJ,2,Natural Gas,2170353
+NJ,2,Other,2534653
+NJ,2,Solar Thermal and Photovoltaic,119539
+NJ,2,Total,4826469
+NJ,2,Wind,1635
+NM,2,Coal,818918
+NM,2,Hydroelectric Conventional,14088
+NM,2,Natural Gas,1070640
+NM,2,Other,3123
+NM,2,Solar Thermal and Photovoltaic,222119
+NM,2,Total,3631636
+NM,2,Wind,1502748
+NV,2,Coal,161547
+NV,2,Hydroelectric Conventional,52676
+NV,2,Natural Gas,1965485
+NV,2,Other,353136
+NV,2,Solar Thermal and Photovoltaic,566166
+NV,2,Total,3129086
+NV,2,Wind,30075
+NY,2,Coal,0
+NY,2,Hydroelectric Conventional,2492136
+NY,2,Natural Gas,4740738
+NY,2,Other,2474046
+NY,2,Solar Thermal and Photovoltaic,199334
+NY,2,Total,10436213
+NY,2,Wind,529959
+OH,2,Coal,1836523
+OH,2,Hydroelectric Conventional,47800
+OH,2,Natural Gas,7197885
+OH,2,Other,1653506
+OH,2,Solar Thermal and Photovoltaic,224830
+OH,2,Total,11243401
+OH,2,Wind,282858
+OK,2,Coal,133227
+OK,2,Hydroelectric Conventional,159048
+OK,2,Natural Gas,2721470
+OK,2,Other,24206
+OK,2,Solar Thermal and Photovoltaic,4765
+OK,2,Total,6703196
+OK,2,Wind,3660482
+OR,2,Hydroelectric Conventional,2263358
+OR,2,Natural Gas,2127456
+OR,2,Other,90569
+OR,2,Solar Thermal and Photovoltaic,102096
+OR,2,Total,5318662
+OR,2,Wind,735184
+PA,2,Coal,1094981
+PA,2,Hydroelectric Conventional,280897
+PA,2,Natural Gas,11528173
+PA,2,Other,6529962
+PA,2,Solar Thermal and Photovoltaic,66154
+PA,2,Total,19806851
+PA,2,Wind,306685
+RI,2,Coal,0
+RI,2,Hydroelectric Conventional,722
+RI,2,Natural Gas,492341
+RI,2,Other,21291
+RI,2,Solar Thermal and Photovoltaic,38174
+RI,2,Total,569066
+RI,2,Wind,16537
+SC,2,Coal,960170
+SC,2,Hydroelectric Conventional,249271
+SC,2,Natural Gas,1754974
+SC,2,Other,4860526
+SC,2,Solar Thermal and Photovoltaic,185704
+SC,2,Total,8010645
+SD,2,Coal,120281
+SD,2,Hydroelectric Conventional,314189
+SD,2,Natural Gas,169717
+SD,2,Other,2190
+SD,2,Solar Thermal and Photovoltaic,10913
+SD,2,Total,1660893
+SD,2,Wind,1043601
+TN,2,Coal,1404088
+TN,2,Hydroelectric Conventional,780049
+TN,2,Natural Gas,1281402
+TN,2,Other,3295226
+TN,2,Solar Thermal and Photovoltaic,72562
+TN,2,Total,6835268
+TN,2,Wind,1941
+TX,2,Coal,3486613
+TX,2,Hydroelectric Conventional,92469
+TX,2,Natural Gas,17281179
+TX,2,Other,3749909
+TX,2,Solar Thermal and Photovoltaic,2249248
+TX,2,Total,38821435
+TX,2,Wind,11962017
+UT,2,Coal,841689
+UT,2,Hydroelectric Conventional,58470
+UT,2,Natural Gas,1040294
+UT,2,Other,56533
+UT,2,Solar Thermal and Photovoltaic,260505
+UT,2,Total,2330227
+UT,2,Wind,72736
+VA,2,Coal,103608
+VA,2,Hydroelectric Conventional,115534
+VA,2,Natural Gas,5551672
+VA,2,Other,2765489
+VA,2,Solar Thermal and Photovoltaic,418029
+VA,2,Total,8958895
+VA,2,Wind,4563
+VT,2,Hydroelectric Conventional,142104
+VT,2,Natural Gas,122
+VT,2,Other,40642
+VT,2,Solar Thermal and Photovoltaic,14445
+VT,2,Total,228779
+VT,2,Wind,31465
+WA,2,Coal,308107
+WA,2,Hydroelectric Conventional,4241577
+WA,2,Natural Gas,1779393
+WA,2,Other,921091
+WA,2,Solar Thermal and Photovoltaic,17672
+WA,2,Total,7994266
+WA,2,Wind,726425
+WI,2,Coal,1259182
+WI,2,Hydroelectric Conventional,141591
+WI,2,Natural Gas,1951043
+WI,2,Other,919068
+WI,2,Solar Thermal and Photovoltaic,170879
+WI,2,Total,4624244
+WI,2,Wind,182482
+WV,2,Coal,2656603
+WV,2,Hydroelectric Conventional,144191
+WV,2,Natural Gas,200539
+WV,2,Other,14963
+WV,2,Solar Thermal and Photovoltaic,2471
+WV,2,Total,3195759
+WV,2,Wind,176993
+WY,2,Coal,2237785
+WY,2,Hydroelectric Conventional,66391
+WY,2,Natural Gas,220198
+WY,2,Other,40639
+WY,2,Solar Thermal and Photovoltaic,10770
+WY,2,Total,3434384
+WY,2,Wind,858602
+AK,3,Coal,60285
+AK,3,Hydroelectric Conventional,151133
+AK,3,Natural Gas,213285
+AK,3,Other,91154
+AK,3,Solar Thermal and Photovoltaic,1239
+AK,3,Total,530412
+AK,3,Wind,13316
+AL,3,Coal,1577956
+AL,3,Hydroelectric Conventional,1012309
+AL,3,Natural Gas,3743147
+AL,3,Other,3663603
+AL,3,Solar Thermal and Photovoltaic,99498
+AL,3,Total,10096514
+AR,3,Coal,843066
+AR,3,Hydroelectric Conventional,349481
+AR,3,Natural Gas,1685560
+AR,3,Other,1469779
+AR,3,Solar Thermal and Photovoltaic,144097
+AR,3,Total,4491984
+AZ,3,Coal,435678
+AZ,3,Hydroelectric Conventional,528550
+AZ,3,Natural Gas,3045985
+AZ,3,Other,2972616
+AZ,3,Solar Thermal and Photovoltaic,748238
+AZ,3,Total,7951700
+AZ,3,Wind,220632
+CA,3,Coal,20049
+CA,3,Hydroelectric Conventional,3191332
+CA,3,Natural Gas,4719090
+CA,3,Other,3025933
+CA,3,Solar Thermal and Photovoltaic,3329675
+CA,3,Total,15659383
+CA,3,Wind,1373306
+CO,3,Coal,1046216
+CO,3,Hydroelectric Conventional,135792
+CO,3,Natural Gas,1614306
+CO,3,Other,26485
+CO,3,Solar Thermal and Photovoltaic,422986
+CO,3,Total,4849668
+CO,3,Wind,1603884
+CT,3,Coal,0
+CT,3,Hydroelectric Conventional,50000
+CT,3,Natural Gas,2077930
+CT,3,Other,1642575
+CT,3,Solar Thermal and Photovoltaic,42329
+CT,3,Total,3814222
+CT,3,Wind,1389
+DC,3,Natural Gas,11324
+DC,3,Other,5144
+DC,3,Solar Thermal and Photovoltaic,2854
+DC,3,Total,19322
+DE,3,Coal,7834
+DE,3,Natural Gas,132535
+DE,3,Other,28009
+DE,3,Solar Thermal and Photovoltaic,14758
+DE,3,Total,183311
+DE,3,Wind,175
+FL,3,Coal,260395
+FL,3,Hydroelectric Conventional,22126
+FL,3,Natural Gas,14683369
+FL,3,Other,2615764
+FL,3,Solar Thermal and Photovoltaic,1566222
+FL,3,Total,19147876
+GA,3,Coal,856302
+GA,3,Hydroelectric Conventional,317628
+GA,3,Natural Gas,3758962
+GA,3,Other,4150056
+GA,3,Solar Thermal and Photovoltaic,656782
+GA,3,Total,9739729
+HI,3,Hydroelectric Conventional,10020
+HI,3,Other,571692
+HI,3,Solar Thermal and Photovoltaic,52266
+HI,3,Total,702425
+HI,3,Wind,68448
+IA,3,Coal,500030
+IA,3,Hydroelectric Conventional,69866
+IA,3,Natural Gas,488599
+IA,3,Other,19521
+IA,3,Solar Thermal and Photovoltaic,46976
+IA,3,Total,6163223
+IA,3,Wind,5038230
+ID,3,Coal,0
+ID,3,Hydroelectric Conventional,728366
+ID,3,Natural Gas,469236
+ID,3,Other,51439
+ID,3,Solar Thermal and Photovoltaic,70160
+ID,3,Total,1582789
+ID,3,Wind,263588
+IL,3,Coal,1681132
+IL,3,Hydroelectric Conventional,7571
+IL,3,Natural Gas,2069227
+IL,3,Other,8145009
+IL,3,Solar Thermal and Photovoltaic,213078
+IL,3,Total,15037143
+IL,3,Wind,2921124
+IN,3,Coal,2451791
+IN,3,Hydroelectric Conventional,46486
+IN,3,Natural Gas,3146213
+IN,3,Other,144813
+IN,3,Solar Thermal and Photovoltaic,182968
+IN,3,Total,7141932
+IN,3,Wind,1169662
+KS,3,Coal,460281
+KS,3,Hydroelectric Conventional,645
+KS,3,Natural Gas,392326
+KS,3,Other,798454
+KS,3,Solar Thermal and Photovoltaic,6349
+KS,3,Total,4704238
+KS,3,Wind,3046183
+KY,3,Coal,3380571
+KY,3,Hydroelectric Conventional,410927
+KY,3,Natural Gas,677013
+KY,3,Other,34895
+KY,3,Solar Thermal and Photovoltaic,13213
+KY,3,Total,4516619
+LA,3,Coal,252974
+LA,3,Hydroelectric Conventional,73557
+LA,3,Natural Gas,5214051
+LA,3,Other,1459894
+LA,3,Solar Thermal and Photovoltaic,57308
+LA,3,Total,7057784
+MA,3,Coal,0
+MA,3,Hydroelectric Conventional,125417
+MA,3,Natural Gas,1402805
+MA,3,Other,93734
+MA,3,Solar Thermal and Photovoltaic,183900
+MA,3,Total,1825419
+MA,3,Wind,19564
+MD,3,Coal,121837
+MD,3,Hydroelectric Conventional,297026
+MD,3,Natural Gas,787609
+MD,3,Other,1295124
+MD,3,Solar Thermal and Photovoltaic,90305
+MD,3,Total,2659921
+MD,3,Wind,68020
+ME,3,Coal,4842
+ME,3,Hydroelectric Conventional,373527
+ME,3,Natural Gas,361727
+ME,3,Other,156435
+ME,3,Solar Thermal and Photovoltaic,75485
+ME,3,Total,1288714
+ME,3,Wind,316697
+MI,3,Coal,970358
+MI,3,Hydroelectric Conventional,115995
+MI,3,Natural Gas,4240553
+MI,3,Other,2175587
+MI,3,Solar Thermal and Photovoltaic,137249
+MI,3,Total,8733217
+MI,3,Wind,1093475
+MN,3,Coal,708552
+MN,3,Hydroelectric Conventional,62995
+MN,3,Natural Gas,1271168
+MN,3,Other,1136687
+MN,3,Solar Thermal and Photovoltaic,193508
+MN,3,Total,4999091
+MN,3,Wind,1626183
+MO,3,Coal,2097925
+MO,3,Hydroelectric Conventional,95325
+MO,3,Natural Gas,547270
+MO,3,Other,940644
+MO,3,Solar Thermal and Photovoltaic,14965
+MO,3,Total,4563799
+MO,3,Wind,867671
+MS,3,Coal,225451
+MS,3,Natural Gas,3857516
+MS,3,Other,152051
+MS,3,Solar Thermal and Photovoltaic,63917
+MS,3,Total,4298935
+MT,3,Coal,785993
+MT,3,Hydroelectric Conventional,755540
+MT,3,Natural Gas,68142
+MT,3,Other,66600
+MT,3,Solar Thermal and Photovoltaic,27899
+MT,3,Total,2128300
+MT,3,Wind,424125
+NC,3,Coal,1093366
+NC,3,Hydroelectric Conventional,483722
+NC,3,Natural Gas,3247603
+NC,3,Other,3719707
+NC,3,Solar Thermal and Photovoltaic,997320
+NC,3,Total,9603166
+NC,3,Wind,61448
+ND,3,Coal,1967648
+ND,3,Hydroelectric Conventional,178898
+ND,3,Natural Gas,226354
+ND,3,Other,10997
+ND,3,Total,3796818
+ND,3,Wind,1412920
+NE,3,Coal,1060571
+NE,3,Hydroelectric Conventional,97703
+NE,3,Natural Gas,55778
+NE,3,Other,602807
+NE,3,Solar Thermal and Photovoltaic,6364
+NE,3,Total,3132108
+NE,3,Wind,1308885
+NH,3,Coal,6783
+NH,3,Hydroelectric Conventional,167547
+NH,3,Natural Gas,244627
+NH,3,Other,1005714
+NH,3,Solar Thermal and Photovoltaic,299
+NH,3,Total,1475422
+NH,3,Wind,50452
+NJ,3,Coal,0
+NJ,3,Hydroelectric Conventional,1771
+NJ,3,Natural Gas,1758492
+NJ,3,Other,2615846
+NJ,3,Solar Thermal and Photovoltaic,148368
+NJ,3,Total,4526884
+NJ,3,Wind,2407
+NM,3,Coal,527772
+NM,3,Hydroelectric Conventional,17717
+NM,3,Natural Gas,918052
+NM,3,Other,2482
+NM,3,Solar Thermal and Photovoltaic,277927
+NM,3,Total,3267094
+NM,3,Wind,1523143
+NV,3,Coal,165161
+NV,3,Hydroelectric Conventional,148883
+NV,3,Natural Gas,1651889
+NV,3,Other,355230
+NV,3,Solar Thermal and Photovoltaic,819988
+NV,3,Total,3180045
+NV,3,Wind,38894
+NY,3,Coal,0
+NY,3,Hydroelectric Conventional,2659875
+NY,3,Natural Gas,4630566
+NY,3,Other,1916987
+NY,3,Solar Thermal and Photovoltaic,248601
+NY,3,Total,10082605
+NY,3,Wind,626576
+OH,3,Coal,1393651
+OH,3,Hydroelectric Conventional,51510
+OH,3,Natural Gas,7273940
+OH,3,Other,1143443
+OH,3,Solar Thermal and Photovoltaic,247123
+OH,3,Total,10460881
+OH,3,Wind,351213
+OK,3,Coal,92147
+OK,3,Hydroelectric Conventional,172250
+OK,3,Natural Gas,2673695
+OK,3,Other,18318
+OK,3,Solar Thermal and Photovoltaic,7018
+OK,3,Total,6671745
+OK,3,Wind,3708317
+OR,3,Hydroelectric Conventional,2609345
+OR,3,Natural Gas,2142364
+OR,3,Other,90829
+OR,3,Solar Thermal and Photovoltaic,163190
+OR,3,Total,5818843
+OR,3,Wind,813115
+PA,3,Coal,610626
+PA,3,Hydroelectric Conventional,301866
+PA,3,Natural Gas,12140647
+PA,3,Other,6528232
+PA,3,Solar Thermal and Photovoltaic,79359
+PA,3,Total,20053917
+PA,3,Wind,393187
+RI,3,Coal,0
+RI,3,Hydroelectric Conventional,813
+RI,3,Natural Gas,476179
+RI,3,Other,22454
+RI,3,Solar Thermal and Photovoltaic,51611
+RI,3,Total,571443
+RI,3,Wind,20386
+SC,3,Coal,1024417
+SC,3,Hydroelectric Conventional,270181
+SC,3,Natural Gas,1411442
+SC,3,Other,4747109
+SC,3,Solar Thermal and Photovoltaic,244898
+SC,3,Total,7698046
+SD,3,Coal,111817
+SD,3,Hydroelectric Conventional,387095
+SD,3,Natural Gas,137951
+SD,3,Other,2275
+SD,3,Solar Thermal and Photovoltaic,12152
+SD,3,Total,1900058
+SD,3,Wind,1248769
+TN,3,Coal,1012415
+TN,3,Hydroelectric Conventional,841616
+TN,3,Natural Gas,1302722
+TN,3,Other,3080334
+TN,3,Solar Thermal and Photovoltaic,97457
+TN,3,Total,6336851
+TN,3,Wind,2308
+TX,3,Coal,3209907
+TX,3,Hydroelectric Conventional,108000
+TX,3,Natural Gas,19395089
+TX,3,Other,3388510
+TX,3,Solar Thermal and Photovoltaic,2784000
+TX,3,Total,40483432
+TX,3,Wind,11597928
+UT,3,Coal,867078
+UT,3,Hydroelectric Conventional,69829
+UT,3,Natural Gas,900056
+UT,3,Other,58015
+UT,3,Solar Thermal and Photovoltaic,361094
+UT,3,Total,2337293
+UT,3,Wind,81219
+VA,3,Coal,74706
+VA,3,Hydroelectric Conventional,123162
+VA,3,Natural Gas,5171166
+VA,3,Other,2274333
+VA,3,Solar Thermal and Photovoltaic,526888
+VA,3,Total,8176114
+VA,3,Wind,5860
+VT,3,Hydroelectric Conventional,153957
+VT,3,Natural Gas,194
+VT,3,Other,32669
+VT,3,Solar Thermal and Photovoltaic,17131
+VT,3,Total,243520
+VT,3,Wind,39568
+WA,3,Coal,201896
+WA,3,Hydroelectric Conventional,5148856
+WA,3,Natural Gas,1518254
+WA,3,Other,946304
+WA,3,Solar Thermal and Photovoltaic,39226
+WA,3,Total,8677833
+WA,3,Wind,823297
+WI,3,Coal,1399118
+WI,3,Hydroelectric Conventional,159639
+WI,3,Natural Gas,2172277
+WI,3,Other,966996
+WI,3,Solar Thermal and Photovoltaic,222618
+WI,3,Total,5155299
+WI,3,Wind,234651
+WV,3,Coal,2989916
+WV,3,Hydroelectric Conventional,155341
+WV,3,Natural Gas,242599
+WV,3,Other,11927
+WV,3,Solar Thermal and Photovoltaic,15843
+WV,3,Total,3674442
+WV,3,Wind,258816
+WY,3,Coal,1831096
+WY,3,Hydroelectric Conventional,79452
+WY,3,Natural Gas,233437
+WY,3,Other,41684
+WY,3,Solar Thermal and Photovoltaic,13641
+WY,3,Total,3101101
+WY,3,Wind,901792
+AK,4,Coal,51371
+AK,4,Hydroelectric Conventional,125470
+AK,4,Natural Gas,184683
+AK,4,Other,103210
+AK,4,Solar Thermal and Photovoltaic,1480
+AK,4,Total,479380
+AK,4,Wind,13166
+AL,4,Coal,1636669
+AL,4,Hydroelectric Conventional,586598
+AL,4,Natural Gas,4611241
+AL,4,Other,3586643
+AL,4,Solar Thermal and Photovoltaic,118101
+AL,4,Total,10539252
+AR,4,Coal,428688
+AR,4,Hydroelectric Conventional,256588
+AR,4,Natural Gas,1508473
+AR,4,Other,1334637
+AR,4,Solar Thermal and Photovoltaic,157684
+AR,4,Total,3686068
+AZ,4,Coal,451491
+AZ,4,Hydroelectric Conventional,488865
+AZ,4,Natural Gas,3450653
+AZ,4,Other,2050580
+AZ,4,Solar Thermal and Photovoltaic,920799
+AZ,4,Total,7553322
+AZ,4,Wind,190934
+CA,4,Coal,21340
+CA,4,Hydroelectric Conventional,3166073
+CA,4,Natural Gas,4127562
+CA,4,Other,2299128
+CA,4,Solar Thermal and Photovoltaic,4259997
+CA,4,Total,15301484
+CA,4,Wind,1427382
+CO,4,Coal,630643
+CO,4,Hydroelectric Conventional,138170
+CO,4,Natural Gas,1230528
+CO,4,Other,6091
+CO,4,Solar Thermal and Photovoltaic,448706
+CO,4,Total,4088546
+CO,4,Wind,1634408
+CT,4,Coal,0
+CT,4,Hydroelectric Conventional,41381
+CT,4,Natural Gas,1586763
+CT,4,Other,1604455
+CT,4,Solar Thermal and Photovoltaic,47105
+CT,4,Total,3280724
+CT,4,Wind,1021
+DC,4,Natural Gas,3796
+DC,4,Other,4925
+DC,4,Solar Thermal and Photovoltaic,3323
+DC,4,Total,12044
+DE,4,Coal,-2278
+DE,4,Natural Gas,293324
+DE,4,Other,24615
+DE,4,Solar Thermal and Photovoltaic,15065
+DE,4,Total,331030
+DE,4,Wind,304
+FL,4,Coal,445322
+FL,4,Hydroelectric Conventional,18572
+FL,4,Natural Gas,14069308
+FL,4,Other,2859478
+FL,4,Solar Thermal and Photovoltaic,2037354
+FL,4,Total,19430034
+GA,4,Coal,1140045
+GA,4,Hydroelectric Conventional,199095
+GA,4,Natural Gas,3767955
+GA,4,Other,4485553
+GA,4,Solar Thermal and Photovoltaic,837302
+GA,4,Total,10429951
+HI,4,Hydroelectric Conventional,10184
+HI,4,Other,580684
+HI,4,Solar Thermal and Photovoltaic,58034
+HI,4,Total,710722
+HI,4,Wind,61820
+IA,4,Coal,152508
+IA,4,Hydroelectric Conventional,71955
+IA,4,Natural Gas,331388
+IA,4,Other,13050
+IA,4,Solar Thermal and Photovoltaic,61874
+IA,4,Total,5747461
+IA,4,Wind,5116685
+ID,4,Coal,0
+ID,4,Hydroelectric Conventional,607545
+ID,4,Natural Gas,317948
+ID,4,Other,46756
+ID,4,Solar Thermal and Photovoltaic,88837
+ID,4,Total,1376519
+ID,4,Wind,315434
+IL,4,Coal,1787531
+IL,4,Hydroelectric Conventional,5554
+IL,4,Natural Gas,1515546
+IL,4,Other,7779267
+IL,4,Solar Thermal and Photovoltaic,230953
+IL,4,Total,14059452
+IL,4,Wind,2740600
+IN,4,Coal,2371430
+IN,4,Hydroelectric Conventional,37751
+IN,4,Natural Gas,2647726
+IN,4,Other,165927
+IN,4,Solar Thermal and Photovoltaic,231911
+IN,4,Total,6588729
+IN,4,Wind,1133984
+KS,4,Coal,322421
+KS,4,Hydroelectric Conventional,1448
+KS,4,Natural Gas,397969
+KS,4,Other,10008
+KS,4,Solar Thermal and Photovoltaic,6127
+KS,4,Total,3660210
+KS,4,Wind,2922237
+KY,4,Coal,3134170
+KY,4,Hydroelectric Conventional,280584
+KY,4,Natural Gas,1041975
+KY,4,Other,40063
+KY,4,Solar Thermal and Photovoltaic,15019
+KY,4,Total,4511812
+LA,4,Coal,97472
+LA,4,Hydroelectric Conventional,58011
+LA,4,Natural Gas,5774385
+LA,4,Other,982836
+LA,4,Solar Thermal and Photovoltaic,68930
+LA,4,Total,6981633
+MA,4,Coal,0
+MA,4,Hydroelectric Conventional,104114
+MA,4,Natural Gas,890397
+MA,4,Other,111127
+MA,4,Solar Thermal and Photovoltaic,212450
+MA,4,Total,1334597
+MA,4,Wind,16508
+MD,4,Coal,89088
+MD,4,Hydroelectric Conventional,287983
+MD,4,Natural Gas,1495122
+MD,4,Other,1416530
+MD,4,Solar Thermal and Photovoltaic,104149
+MD,4,Total,3447719
+MD,4,Wind,54848
+ME,4,Coal,1789
+ME,4,Hydroelectric Conventional,317471
+ME,4,Natural Gas,271992
+ME,4,Other,143362
+ME,4,Solar Thermal and Photovoltaic,83147
+ME,4,Total,1118580
+ME,4,Wind,300818
+MI,4,Coal,1636648
+MI,4,Hydroelectric Conventional,96273
+MI,4,Natural Gas,4252930
+MI,4,Other,1081365
+MI,4,Solar Thermal and Photovoltaic,176414
+MI,4,Total,8361551
+MI,4,Wind,1117921
+MN,4,Coal,671959
+MN,4,Hydroelectric Conventional,53392
+MN,4,Natural Gas,831893
+MN,4,Other,1332249
+MN,4,Solar Thermal and Photovoltaic,212716
+MN,4,Total,4744656
+MN,4,Wind,1642447
+MO,4,Coal,2263049
+MO,4,Hydroelectric Conventional,57405
+MO,4,Natural Gas,548306
+MO,4,Other,909771
+MO,4,Solar Thermal and Photovoltaic,16967
+MO,4,Total,4590393
+MO,4,Wind,794894
+MS,4,Coal,140889
+MS,4,Natural Gas,4247585
+MS,4,Other,1130022
+MS,4,Solar Thermal and Photovoltaic,84851
+MS,4,Total,5668739
+MS,4,Wind,65393
+MT,4,Coal,695198
+MT,4,Hydroelectric Conventional,629148
+MT,4,Natural Gas,56579
+MT,4,Other,43555
+MT,4,Solar Thermal and Photovoltaic,35169
+MT,4,Total,2079313
+MT,4,Wind,619665
+NC,4,Coal,970054
+NC,4,Hydroelectric Conventional,321411
+NC,4,Natural Gas,3371988
+NC,4,Other,3412648
+NC,4,Solar Thermal and Photovoltaic,1156078
+NC,4,Total,9292789
+NC,4,Wind,60610
+ND,4,Coal,1504330
+ND,4,Hydroelectric Conventional,148623
+ND,4,Natural Gas,184982
+ND,4,Other,10432
+ND,4,Total,3452069
+ND,4,Wind,1603701
+NE,4,Coal,755876
+NE,4,Hydroelectric Conventional,81251
+NE,4,Natural Gas,90926
+NE,4,Other,584024
+NE,4,Solar Thermal and Photovoltaic,7508
+NE,4,Total,2848007
+NE,4,Wind,1328422
+NH,4,Coal,0
+NH,4,Hydroelectric Conventional,125919
+NH,4,Natural Gas,318844
+NH,4,Other,963277
+NH,4,Solar Thermal and Photovoltaic,342
+NH,4,Total,1450928
+NH,4,Wind,42546
+NJ,4,Coal,0
+NJ,4,Hydroelectric Conventional,1037
+NJ,4,Natural Gas,2711718
+NJ,4,Other,1820237
+NJ,4,Solar Thermal and Photovoltaic,170356
+NJ,4,Total,4705267
+NJ,4,Wind,1919
+NM,4,Coal,586770
+NM,4,Hydroelectric Conventional,14893
+NM,4,Natural Gas,803897
+NM,4,Other,735
+NM,4,Solar Thermal and Photovoltaic,366467
+NM,4,Total,3216660
+NM,4,Wind,1443897
+NV,4,Coal,119927
+NV,4,Hydroelectric Conventional,189897
+NV,4,Natural Gas,1389681
+NV,4,Other,343165
+NV,4,Solar Thermal and Photovoltaic,1144404
+NV,4,Total,3214322
+NV,4,Wind,27248
+NY,4,Coal,0
+NY,4,Hydroelectric Conventional,2370672
+NY,4,Natural Gas,3978156
+NY,4,Other,2584375
+NY,4,Solar Thermal and Photovoltaic,293768
+NY,4,Total,9816040
+NY,4,Wind,589070
+OH,4,Coal,1994286
+OH,4,Hydroelectric Conventional,41085
+OH,4,Natural Gas,5531248
+OH,4,Other,1703354
+OH,4,Solar Thermal and Photovoltaic,318914
+OH,4,Total,9917981
+OH,4,Wind,329093
+OK,4,Coal,346805
+OK,4,Hydroelectric Conventional,110715
+OK,4,Natural Gas,3091705
+OK,4,Other,24415
+OK,4,Solar Thermal and Photovoltaic,7748
+OK,4,Total,7465642
+OK,4,Wind,3884253
+OR,4,Hydroelectric Conventional,1972559
+OR,4,Natural Gas,1817012
+OR,4,Other,92856
+OR,4,Solar Thermal and Photovoltaic,194394
+OR,4,Total,5099494
+OR,4,Wind,1022673
+PA,4,Coal,652420
+PA,4,Hydroelectric Conventional,230161
+PA,4,Natural Gas,9721265
+PA,4,Other,4891100
+PA,4,Solar Thermal and Photovoltaic,100726
+PA,4,Total,15969297
+PA,4,Wind,373626
+RI,4,Coal,0
+RI,4,Hydroelectric Conventional,768
+RI,4,Natural Gas,490035
+RI,4,Other,16537
+RI,4,Solar Thermal and Photovoltaic,58284
+RI,4,Total,581523
+RI,4,Wind,15898
+SC,4,Coal,1012420
+SC,4,Hydroelectric Conventional,163966
+SC,4,Natural Gas,1450249
+SC,4,Other,4611481
+SC,4,Solar Thermal and Photovoltaic,304067
+SC,4,Total,7542183
+SD,4,Coal,78971
+SD,4,Hydroelectric Conventional,324417
+SD,4,Natural Gas,128400
+SD,4,Other,2698
+SD,4,Solar Thermal and Photovoltaic,16277
+SD,4,Total,1838439
+SD,4,Wind,1287677
+TN,4,Coal,664284
+TN,4,Hydroelectric Conventional,639526
+TN,4,Natural Gas,879374
+TN,4,Other,2523111
+TN,4,Solar Thermal and Photovoltaic,106652
+TN,4,Total,4814864
+TN,4,Wind,1917
+TX,4,Coal,3858796
+TX,4,Hydroelectric Conventional,57489
+TX,4,Natural Gas,18456740
+TX,4,Other,2956575
+TX,4,Solar Thermal and Photovoltaic,2877549
+TX,4,Total,41074202
+TX,4,Wind,12867052
+UT,4,Coal,795961
+UT,4,Hydroelectric Conventional,58611
+UT,4,Natural Gas,672652
+UT,4,Other,59260
+UT,4,Solar Thermal and Photovoltaic,454828
+UT,4,Total,2089981
+UT,4,Wind,48670
+VA,4,Coal,101607
+VA,4,Hydroelectric Conventional,78207
+VA,4,Natural Gas,3373651
+VA,4,Other,2159647
+VA,4,Solar Thermal and Photovoltaic,621054
+VA,4,Total,6338861
+VA,4,Wind,4696
+VT,4,Hydroelectric Conventional,128235
+VT,4,Natural Gas,8
+VT,4,Other,33175
+VT,4,Solar Thermal and Photovoltaic,21422
+VT,4,Total,218249
+VT,4,Wind,35409
+WA,4,Coal,1759
+WA,4,Hydroelectric Conventional,4345595
+WA,4,Natural Gas,1237077
+WA,4,Other,931469
+WA,4,Solar Thermal and Photovoltaic,43863
+WA,4,Total,7506731
+WA,4,Wind,946968
+WI,4,Coal,1082955
+WI,4,Hydroelectric Conventional,139517
+WI,4,Natural Gas,1508901
+WI,4,Other,947131
+WI,4,Solar Thermal and Photovoltaic,259990
+WI,4,Total,4175313
+WI,4,Wind,236819
+WV,4,Coal,3167892
+WV,4,Hydroelectric Conventional,125257
+WV,4,Natural Gas,309208
+WV,4,Other,10256
+WV,4,Solar Thermal and Photovoltaic,18114
+WV,4,Total,3835881
+WV,4,Wind,205153
+WY,4,Coal,1459847
+WY,4,Hydroelectric Conventional,66855
+WY,4,Natural Gas,308353
+WY,4,Other,43956
+WY,4,Solar Thermal and Photovoltaic,23806
+WY,4,Total,2755897
+WY,4,Wind,853080
+AK,5,Coal,75520
+AK,5,Hydroelectric Conventional,151796
+AK,5,Natural Gas,204545
+AK,5,Other,76832
+AK,5,Solar Thermal and Photovoltaic,1678
+AK,5,Total,520539
+AK,5,Wind,10167
+AL,5,Coal,1820875
+AL,5,Hydroelectric Conventional,838736
+AL,5,Natural Gas,5045987
+AL,5,Other,3905392
+AL,5,Solar Thermal and Photovoltaic,128672
+AL,5,Total,11739662
+AR,5,Coal,1063898
+AR,5,Hydroelectric Conventional,303670
+AR,5,Natural Gas,1953839
+AR,5,Other,1006739
+AR,5,Solar Thermal and Photovoltaic,198685
+AR,5,Total,4526831
+AZ,5,Coal,488569
+AZ,5,Hydroelectric Conventional,527492
+AZ,5,Natural Gas,3858102
+AZ,5,Other,2542267
+AZ,5,Solar Thermal and Photovoltaic,1094265
+AZ,5,Total,8784219
+AZ,5,Wind,273523
+CA,5,Coal,17212
+CA,5,Hydroelectric Conventional,3637361
+CA,5,Natural Gas,3598562
+CA,5,Other,2534098
+CA,5,Solar Thermal and Photovoltaic,5133345
+CA,5,Total,16422411
+CA,5,Wind,1501835
+CO,5,Coal,777081
+CO,5,Hydroelectric Conventional,160229
+CO,5,Natural Gas,1283027
+CO,5,Other,21819
+CO,5,Solar Thermal and Photovoltaic,505788
+CO,5,Total,4378426
+CO,5,Wind,1630481
+CT,5,Coal,0
+CT,5,Hydroelectric Conventional,42696
+CT,5,Natural Gas,1693777
+CT,5,Other,1656052
+CT,5,Solar Thermal and Photovoltaic,54182
+CT,5,Total,3447392
+CT,5,Wind,685
+DC,5,Natural Gas,6755
+DC,5,Other,5327
+DC,5,Solar Thermal and Photovoltaic,3752
+DC,5,Total,15834
+DE,5,Coal,7868
+DE,5,Natural Gas,211784
+DE,5,Other,31693
+DE,5,Solar Thermal and Photovoltaic,15747
+DE,5,Total,267096
+DE,5,Wind,4
+FL,5,Coal,705468
+FL,5,Hydroelectric Conventional,19755
+FL,5,Natural Gas,18973996
+FL,5,Other,3269260
+FL,5,Solar Thermal and Photovoltaic,2047565
+FL,5,Total,25016044
+GA,5,Coal,1266140
+GA,5,Hydroelectric Conventional,279213
+GA,5,Natural Gas,4796353
+GA,5,Other,5118334
+GA,5,Solar Thermal and Photovoltaic,899356
+GA,5,Total,12359395
+HI,5,Hydroelectric Conventional,12429
+HI,5,Other,624916
+HI,5,Solar Thermal and Photovoltaic,60442
+HI,5,Total,750545
+HI,5,Wind,52759
+IA,5,Coal,836931
+IA,5,Hydroelectric Conventional,96158
+IA,5,Natural Gas,823253
+IA,5,Other,22116
+IA,5,Solar Thermal and Photovoltaic,76393
+IA,5,Total,5431924
+IA,5,Wind,3577074
+ID,5,Coal,0
+ID,5,Hydroelectric Conventional,725097
+ID,5,Natural Gas,281000
+ID,5,Other,47322
+ID,5,Solar Thermal and Photovoltaic,106581
+ID,5,Total,1415379
+ID,5,Wind,255379
+IL,5,Coal,2055913
+IL,5,Hydroelectric Conventional,6196
+IL,5,Natural Gas,1705837
+IL,5,Other,8493646
+IL,5,Solar Thermal and Photovoltaic,277353
+IL,5,Total,14405225
+IL,5,Wind,1866279
+IN,5,Coal,2487464
+IN,5,Hydroelectric Conventional,41245
+IN,5,Natural Gas,2989248
+IN,5,Other,206164
+IN,5,Solar Thermal and Photovoltaic,339287
+IN,5,Total,6752511
+IN,5,Wind,689103
+KS,5,Coal,953555
+KS,5,Hydroelectric Conventional,3780
+KS,5,Natural Gas,521870
+KS,5,Other,589280
+KS,5,Solar Thermal and Photovoltaic,8695
+KS,5,Total,4507318
+KS,5,Wind,2430137
+KY,5,Coal,3593605
+KY,5,Hydroelectric Conventional,380724
+KY,5,Natural Gas,1554560
+KY,5,Other,41359
+KY,5,Solar Thermal and Photovoltaic,16903
+KY,5,Total,5587152
+LA,5,Coal,323241
+LA,5,Hydroelectric Conventional,64912
+LA,5,Natural Gas,6712479
+LA,5,Other,1210619
+LA,5,Solar Thermal and Photovoltaic,73805
+LA,5,Total,8385056
+MA,5,Coal,0
+MA,5,Hydroelectric Conventional,111598
+MA,5,Natural Gas,810271
+MA,5,Other,107048
+MA,5,Solar Thermal and Photovoltaic,239273
+MA,5,Total,1282523
+MA,5,Wind,14333
+MD,5,Coal,398438
+MD,5,Hydroelectric Conventional,192795
+MD,5,Natural Gas,1015854
+MD,5,Other,1412780
+MD,5,Solar Thermal and Photovoltaic,113554
+MD,5,Total,3165099
+MD,5,Wind,31677
+ME,5,Coal,1726
+ME,5,Hydroelectric Conventional,335017
+ME,5,Natural Gas,270817
+ME,5,Other,136384
+ME,5,Solar Thermal and Photovoltaic,106868
+ME,5,Total,1025983
+ME,5,Wind,175171
+MI,5,Coal,1647564
+MI,5,Hydroelectric Conventional,116786
+MI,5,Natural Gas,4974884
+MI,5,Other,2252086
+MI,5,Solar Thermal and Photovoltaic,222042
+MI,5,Total,9932456
+MI,5,Wind,719093
+MN,5,Coal,562307
+MN,5,Hydroelectric Conventional,64907
+MN,5,Natural Gas,1197663
+MN,5,Other,1341231
+MN,5,Solar Thermal and Photovoltaic,253105
+MN,5,Total,4682091
+MN,5,Wind,1262877
+MO,5,Coal,3061679
+MO,5,Hydroelectric Conventional,99323
+MO,5,Natural Gas,721721
+MO,5,Other,1028481
+MO,5,Solar Thermal and Photovoltaic,18959
+MO,5,Total,5413678
+MO,5,Wind,483515
+MS,5,Coal,252905
+MS,5,Natural Gas,5199898
+MS,5,Other,1065943
+MS,5,Solar Thermal and Photovoltaic,114112
+MS,5,Total,6671444
+MS,5,Wind,38587
+MT,5,Coal,234410
+MT,5,Hydroelectric Conventional,753987
+MT,5,Natural Gas,64900
+MT,5,Other,54159
+MT,5,Solar Thermal and Photovoltaic,36694
+MT,5,Total,1668279
+MT,5,Wind,524130
+NC,5,Coal,1809512
+NC,5,Hydroelectric Conventional,411798
+NC,5,Natural Gas,3931603
+NC,5,Other,3724193
+NC,5,Solar Thermal and Photovoltaic,1273389
+NC,5,Total,11182176
+NC,5,Wind,31682
+ND,5,Coal,1585723
+ND,5,Hydroelectric Conventional,179420
+ND,5,Natural Gas,193978
+ND,5,Other,9599
+ND,5,Total,3212413
+ND,5,Wind,1243693
+NE,5,Coal,866743
+NE,5,Hydroelectric Conventional,97776
+NE,5,Natural Gas,144996
+NE,5,Other,597536
+NE,5,Solar Thermal and Photovoltaic,26740
+NE,5,Total,2807508
+NE,5,Wind,1073717
+NH,5,Coal,0
+NH,5,Hydroelectric Conventional,146585
+NH,5,Natural Gas,323951
+NH,5,Other,983986
+NH,5,Solar Thermal and Photovoltaic,381
+NH,5,Total,1480871
+NH,5,Wind,25969
+NJ,5,Coal,0
+NJ,5,Hydroelectric Conventional,0
+NJ,5,Natural Gas,1985773
+NJ,5,Other,2242403
+NJ,5,Solar Thermal and Photovoltaic,190420
+NJ,5,Total,4420002
+NJ,5,Wind,1405
+NM,5,Coal,730352
+NM,5,Hydroelectric Conventional,17324
+NM,5,Natural Gas,968374
+NM,5,Other,-25
+NM,5,Solar Thermal and Photovoltaic,412630
+NM,5,Total,3509323
+NM,5,Wind,1380667
+NV,5,Coal,132046
+NV,5,Hydroelectric Conventional,210330
+NV,5,Natural Gas,1695613
+NV,5,Other,285620
+NV,5,Solar Thermal and Photovoltaic,1457419
+NV,5,Total,3808886
+NV,5,Wind,27858
+NY,5,Coal,0
+NY,5,Hydroelectric Conventional,2448783
+NY,5,Natural Gas,4624559
+NY,5,Other,2668341
+NY,5,Solar Thermal and Photovoltaic,341930
+NY,5,Total,10489261
+NY,5,Wind,405647
+OH,5,Coal,2578032
+OH,5,Hydroelectric Conventional,45551
+OH,5,Natural Gas,6098350
+OH,5,Other,1449130
+OH,5,Solar Thermal and Photovoltaic,382680
+OH,5,Total,10740319
+OH,5,Wind,186577
+OK,5,Coal,411237
+OK,5,Hydroelectric Conventional,146829
+OK,5,Natural Gas,4076868
+OK,5,Other,28865
+OK,5,Solar Thermal and Photovoltaic,34295
+OK,5,Total,7758609
+OK,5,Wind,3060514
+OR,5,Hydroelectric Conventional,2090078
+OR,5,Natural Gas,944874
+OR,5,Other,95016
+OR,5,Solar Thermal and Photovoltaic,249662
+OR,5,Total,4471143
+OR,5,Wind,1091513
+PA,5,Coal,579773
+PA,5,Hydroelectric Conventional,264933
+PA,5,Natural Gas,11630386
+PA,5,Other,6418930
+PA,5,Solar Thermal and Photovoltaic,120532
+PA,5,Total,19284029
+PA,5,Wind,269475
+RI,5,Coal,0
+RI,5,Hydroelectric Conventional,802
+RI,5,Natural Gas,714078
+RI,5,Other,23164
+RI,5,Solar Thermal and Photovoltaic,66134
+RI,5,Total,819366
+RI,5,Wind,15189
+SC,5,Coal,1299885
+SC,5,Hydroelectric Conventional,228387
+SC,5,Natural Gas,1963634
+SC,5,Other,4629758
+SC,5,Solar Thermal and Photovoltaic,311444
+SC,5,Total,8433108
+SD,5,Coal,104319
+SD,5,Hydroelectric Conventional,380985
+SD,5,Natural Gas,173939
+SD,5,Other,2503
+SD,5,Solar Thermal and Photovoltaic,19346
+SD,5,Total,1731666
+SD,5,Wind,1050574
+TN,5,Coal,987957
+TN,5,Hydroelectric Conventional,737754
+TN,5,Natural Gas,844414
+TN,5,Other,3269715
+TN,5,Solar Thermal and Photovoltaic,107550
+TN,5,Total,5949265
+TN,5,Wind,1875
+TX,5,Coal,4858849
+TX,5,Hydroelectric Conventional,87199
+TX,5,Natural Gas,24768500
+TX,5,Other,3186694
+TX,5,Solar Thermal and Photovoltaic,3346069
+TX,5,Total,47572534
+TX,5,Wind,11325224
+UT,5,Coal,860070
+UT,5,Hydroelectric Conventional,69322
+UT,5,Natural Gas,796210
+UT,5,Other,56591
+UT,5,Solar Thermal and Photovoltaic,560843
+UT,5,Total,2397849
+UT,5,Wind,54812
+VA,5,Coal,48235
+VA,5,Hydroelectric Conventional,101698
+VA,5,Natural Gas,3584397
+VA,5,Other,2260467
+VA,5,Solar Thermal and Photovoltaic,686304
+VA,5,Total,6684938
+VA,5,Wind,3838
+VT,5,Hydroelectric Conventional,136595
+VT,5,Natural Gas,4
+VT,5,Other,20840
+VT,5,Solar Thermal and Photovoltaic,24672
+VT,5,Total,207088
+VT,5,Wind,24978
+WA,5,Coal,2281
+WA,5,Hydroelectric Conventional,5463078
+WA,5,Natural Gas,734550
+WA,5,Other,957660
+WA,5,Solar Thermal and Photovoltaic,54350
+WA,5,Total,8046827
+WA,5,Wind,834907
+WI,5,Coal,1372166
+WI,5,Hydroelectric Conventional,167374
+WI,5,Natural Gas,2236048
+WI,5,Other,997686
+WI,5,Solar Thermal and Photovoltaic,319492
+WI,5,Total,5253435
+WI,5,Wind,160670
+WV,5,Coal,3660770
+WV,5,Hydroelectric Conventional,137646
+WV,5,Natural Gas,355186
+WV,5,Other,14066
+WV,5,Solar Thermal and Photovoltaic,20222
+WV,5,Total,4296564
+WV,5,Wind,108675
+WY,5,Coal,1392396
+WY,5,Hydroelectric Conventional,80690
+WY,5,Natural Gas,356562
+WY,5,Other,36198
+WY,5,Solar Thermal and Photovoltaic,55511
+WY,5,Total,2697675
+WY,5,Wind,776319
+AK,6,Coal,49166
+AK,6,Hydroelectric Conventional,174184
+AK,6,Natural Gas,220205
+AK,6,Other,90797
+AK,6,Solar Thermal and Photovoltaic,1794
+AK,6,Total,546178
+AK,6,Wind,10031
+AL,6,Coal,2109658
+AL,6,Hydroelectric Conventional,412058
+AL,6,Natural Gas,5921965
+AL,6,Other,4124109
+AL,6,Solar Thermal and Photovoltaic,139893
+AL,6,Total,12707683
+AR,6,Coal,1771474
+AR,6,Hydroelectric Conventional,158385
+AR,6,Natural Gas,2464198
+AR,6,Other,1398452
+AR,6,Solar Thermal and Photovoltaic,237894
+AR,6,Total,6030403
+AZ,6,Coal,786349
+AZ,6,Hydroelectric Conventional,548061
+AZ,6,Natural Gas,5181794
+AZ,6,Other,2894172
+AZ,6,Solar Thermal and Photovoltaic,1185696
+AZ,6,Total,10863964
+AZ,6,Wind,267893
+CA,6,Coal,20657
+CA,6,Hydroelectric Conventional,3090818
+CA,6,Natural Gas,5573231
+CA,6,Other,2958911
+CA,6,Solar Thermal and Photovoltaic,5540771
+CA,6,Total,18637702
+CA,6,Wind,1453314
+CO,6,Coal,1525065
+CO,6,Hydroelectric Conventional,169458
+CO,6,Natural Gas,1489928
+CO,6,Other,20410
+CO,6,Solar Thermal and Photovoltaic,530500
+CO,6,Total,5247306
+CO,6,Wind,1511945
+CT,6,Coal,0
+CT,6,Hydroelectric Conventional,32027
+CT,6,Natural Gas,2245394
+CT,6,Other,1606260
+CT,6,Solar Thermal and Photovoltaic,57292
+CT,6,Total,3941744
+CT,6,Wind,769
+DC,6,Natural Gas,11254
+DC,6,Other,4524
+DC,6,Solar Thermal and Photovoltaic,5886
+DC,6,Total,21664
+DE,6,Coal,10328
+DE,6,Natural Gas,498110
+DE,6,Other,29229
+DE,6,Solar Thermal and Photovoltaic,20174
+DE,6,Total,557909
+DE,6,Wind,67
+FL,6,Coal,1140787
+FL,6,Hydroelectric Conventional,16939
+FL,6,Natural Gas,19243876
+FL,6,Other,2975699
+FL,6,Solar Thermal and Photovoltaic,1829920
+FL,6,Total,25207220
+GA,6,Coal,2125502
+GA,6,Hydroelectric Conventional,128361
+GA,6,Natural Gas,5293281
+GA,6,Other,4689734
+GA,6,Solar Thermal and Photovoltaic,980845
+GA,6,Total,13217722
+HI,6,Hydroelectric Conventional,9174
+HI,6,Other,591423
+HI,6,Solar Thermal and Photovoltaic,76008
+HI,6,Total,743214
+HI,6,Wind,66610
+IA,6,Coal,1286240
+IA,6,Hydroelectric Conventional,106767
+IA,6,Natural Gas,855052
+IA,6,Other,23610
+IA,6,Solar Thermal and Photovoltaic,77234
+IA,6,Total,5735175
+IA,6,Wind,3386271
+ID,6,Coal,0
+ID,6,Hydroelectric Conventional,814977
+ID,6,Natural Gas,467799
+ID,6,Other,26992
+ID,6,Solar Thermal and Photovoltaic,146594
+ID,6,Total,1700947
+ID,6,Wind,244585
+IL,6,Coal,2651403
+IL,6,Hydroelectric Conventional,6475
+IL,6,Natural Gas,3023576
+IL,6,Other,8453709
+IL,6,Solar Thermal and Photovoltaic,286674
+IL,6,Total,16295407
+IL,6,Wind,1873570
+IN,6,Coal,3931414
+IN,6,Hydroelectric Conventional,32480
+IN,6,Natural Gas,3307837
+IN,6,Other,241540
+IN,6,Solar Thermal and Photovoltaic,381414
+IN,6,Total,8644544
+IN,6,Wind,749857
+KS,6,Coal,1210506
+KS,6,Hydroelectric Conventional,4134
+KS,6,Natural Gas,544121
+KS,6,Other,879777
+KS,6,Solar Thermal and Photovoltaic,9342
+KS,6,Total,5377376
+KS,6,Wind,2729495
+KY,6,Coal,4133210
+KY,6,Hydroelectric Conventional,261593
+KY,6,Natural Gas,1809509
+KY,6,Other,40690
+KY,6,Solar Thermal and Photovoltaic,24465
+KY,6,Total,6269466
+LA,6,Coal,489902
+LA,6,Hydroelectric Conventional,47169
+LA,6,Natural Gas,6835972
+LA,6,Other,1409452
+LA,6,Solar Thermal and Photovoltaic,82124
+LA,6,Total,8864618
+MA,6,Coal,0
+MA,6,Hydroelectric Conventional,96038
+MA,6,Natural Gas,1123907
+MA,6,Other,135487
+MA,6,Solar Thermal and Photovoltaic,250186
+MA,6,Total,1620707
+MA,6,Wind,15090
+MD,6,Coal,244128
+MD,6,Hydroelectric Conventional,76746
+MD,6,Natural Gas,1264165
+MD,6,Other,1324400
+MD,6,Solar Thermal and Photovoltaic,129966
+MD,6,Total,3074372
+MD,6,Wind,34966
+ME,6,Coal,1606
+ME,6,Hydroelectric Conventional,296057
+ME,6,Natural Gas,420254
+ME,6,Other,137939
+ME,6,Solar Thermal and Photovoltaic,106880
+ME,6,Total,1158070
+ME,6,Wind,195334
+MI,6,Coal,2518973
+MI,6,Hydroelectric Conventional,134358
+MI,6,Natural Gas,4630961
+MI,6,Other,2547188
+MI,6,Solar Thermal and Photovoltaic,222734
+MI,6,Total,10830932
+MI,6,Wind,776718
+MN,6,Coal,974513
+MN,6,Hydroelectric Conventional,82351
+MN,6,Natural Gas,1195052
+MN,6,Other,1305488
+MN,6,Solar Thermal and Photovoltaic,259162
+MN,6,Total,4965555
+MN,6,Wind,1148989
+MO,6,Coal,3744052
+MO,6,Hydroelectric Conventional,35343
+MO,6,Natural Gas,1136758
+MO,6,Other,936285
+MO,6,Solar Thermal and Photovoltaic,19886
+MO,6,Total,6402586
+MO,6,Wind,530261
+MS,6,Coal,285416
+MS,6,Natural Gas,5321767
+MS,6,Other,1099237
+MS,6,Solar Thermal and Photovoltaic,163274
+MS,6,Total,6892296
+MS,6,Wind,22602
+MT,6,Coal,325853
+MT,6,Hydroelectric Conventional,853681
+MT,6,Natural Gas,72059
+MT,6,Other,65001
+MT,6,Solar Thermal and Photovoltaic,49424
+MT,6,Total,1834577
+MT,6,Wind,468559
+NC,6,Coal,2010593
+NC,6,Hydroelectric Conventional,251345
+NC,6,Natural Gas,5416283
+NC,6,Other,3853371
+NC,6,Solar Thermal and Photovoltaic,1390743
+NC,6,Total,12950456
+NC,6,Wind,28121
+ND,6,Coal,1792309
+ND,6,Hydroelectric Conventional,205260
+ND,6,Natural Gas,220548
+ND,6,Other,6864
+ND,6,Total,3455112
+ND,6,Wind,1230131
+NE,6,Coal,1091073
+NE,6,Hydroelectric Conventional,111357
+NE,6,Natural Gas,153954
+NE,6,Other,575188
+NE,6,Solar Thermal and Photovoltaic,27865
+NE,6,Total,2915873
+NE,6,Wind,956437
+NH,6,Coal,0
+NH,6,Hydroelectric Conventional,92205
+NH,6,Natural Gas,531509
+NH,6,Other,979057
+NH,6,Solar Thermal and Photovoltaic,395
+NH,6,Total,1635661
+NH,6,Wind,32496
+NJ,6,Coal,0
+NJ,6,Hydroelectric Conventional,0
+NJ,6,Natural Gas,2953497
+NJ,6,Other,2568256
+NJ,6,Solar Thermal and Photovoltaic,199047
+NJ,6,Total,5722468
+NJ,6,Wind,1668
+NM,6,Coal,919912
+NM,6,Hydroelectric Conventional,18766
+NM,6,Natural Gas,1233992
+NM,6,Other,-1003
+NM,6,Solar Thermal and Photovoltaic,429576
+NM,6,Total,3781294
+NM,6,Wind,1180050
+NV,6,Coal,208117
+NV,6,Hydroelectric Conventional,186870
+NV,6,Natural Gas,2255516
+NV,6,Other,278329
+NV,6,Solar Thermal and Photovoltaic,1499103
+NV,6,Total,4451902
+NV,6,Wind,23967
+NY,6,Coal,0
+NY,6,Hydroelectric Conventional,2296907
+NY,6,Natural Gas,5888593
+NY,6,Other,2569990
+NY,6,Solar Thermal and Photovoltaic,369334
+NY,6,Total,11589504
+NY,6,Wind,464680
+OH,6,Coal,3046475
+OH,6,Hydroelectric Conventional,34161
+OH,6,Natural Gas,7340616
+OH,6,Other,1710394
+OH,6,Solar Thermal and Photovoltaic,477139
+OH,6,Total,12823348
+OH,6,Wind,214562
+OK,6,Coal,616642
+OK,6,Hydroelectric Conventional,56600
+OK,6,Natural Gas,4894097
+OK,6,Other,27056
+OK,6,Solar Thermal and Photovoltaic,42004
+OK,6,Total,9055593
+OK,6,Wind,3419196
+OR,6,Hydroelectric Conventional,2293861
+OR,6,Natural Gas,1665929
+OR,6,Other,93138
+OR,6,Solar Thermal and Photovoltaic,263156
+OR,6,Total,5213721
+OR,6,Wind,897638
+PA,6,Coal,1279028
+PA,6,Hydroelectric Conventional,160931
+PA,6,Natural Gas,13610620
+PA,6,Other,6652066
+PA,6,Solar Thermal and Photovoltaic,153272
+PA,6,Total,22121612
+PA,6,Wind,265697
+RI,6,Coal,0
+RI,6,Hydroelectric Conventional,482
+RI,6,Natural Gas,804798
+RI,6,Other,21805
+RI,6,Solar Thermal and Photovoltaic,72409
+RI,6,Total,913286
+RI,6,Wind,13792
+SC,6,Coal,1807409
+SC,6,Hydroelectric Conventional,84991
+SC,6,Natural Gas,1915986
+SC,6,Other,4580595
+SC,6,Solar Thermal and Photovoltaic,335430
+SC,6,Total,8724409
+SD,6,Coal,139998
+SD,6,Hydroelectric Conventional,418712
+SD,6,Natural Gas,155524
+SD,6,Other,2463
+SD,6,Solar Thermal and Photovoltaic,53634
+SD,6,Total,1709429
+SD,6,Wind,939099
+TN,6,Coal,1966911
+TN,6,Hydroelectric Conventional,483667
+TN,6,Natural Gas,1444351
+TN,6,Other,3252582
+TN,6,Solar Thermal and Photovoltaic,120181
+TN,6,Total,7269791
+TN,6,Wind,2098
+TX,6,Coal,5475368
+TX,6,Hydroelectric Conventional,32336
+TX,6,Natural Gas,27770251
+TX,6,Other,3910868
+TX,6,Solar Thermal and Photovoltaic,4079328
+TX,6,Total,52377673
+TX,6,Wind,11109521
+UT,6,Coal,1070251
+UT,6,Hydroelectric Conventional,76081
+UT,6,Natural Gas,951154
+UT,6,Other,58716
+UT,6,Solar Thermal and Photovoltaic,577846
+UT,6,Total,2803789
+UT,6,Wind,69739
+VA,6,Coal,238864
+VA,6,Hydroelectric Conventional,47149
+VA,6,Natural Gas,5585071
+VA,6,Other,2650761
+VA,6,Solar Thermal and Photovoltaic,886094
+VA,6,Total,9410975
+VA,6,Wind,3036
+VT,6,Hydroelectric Conventional,113142
+VT,6,Natural Gas,190
+VT,6,Other,31034
+VT,6,Solar Thermal and Photovoltaic,25330
+VT,6,Total,197303
+VT,6,Wind,27607
+WA,6,Coal,3275
+WA,6,Hydroelectric Conventional,6234523
+WA,6,Natural Gas,980521
+WA,6,Other,922992
+WA,6,Solar Thermal and Photovoltaic,58278
+WA,6,Total,8913468
+WA,6,Wind,713880
+WI,6,Coal,1719002
+WI,6,Hydroelectric Conventional,187986
+WI,6,Natural Gas,2473167
+WI,6,Other,970712
+WI,6,Solar Thermal and Photovoltaic,334234
+WI,6,Total,5840536
+WI,6,Wind,155435
+WV,6,Coal,5069457
+WV,6,Hydroelectric Conventional,106345
+WV,6,Natural Gas,382142
+WV,6,Other,11020
+WV,6,Solar Thermal and Photovoltaic,26169
+WV,6,Total,5723995
+WV,6,Wind,128863
+WY,6,Coal,1602010
+WY,6,Hydroelectric Conventional,90291
+WY,6,Natural Gas,526741
+WY,6,Other,40227
+WY,6,Solar Thermal and Photovoltaic,57039
+WY,6,Total,3112082
+WY,6,Wind,795773
+AK,7,Coal,71910
+AK,7,Hydroelectric Conventional,171677
+AK,7,Natural Gas,349233
+AK,7,Other,70779
+AK,7,Solar Thermal and Photovoltaic,1784
+AK,7,Total,671859
+AK,7,Wind,6476
+AL,7,Coal,1909363
+AL,7,Hydroelectric Conventional,388048
+AL,7,Natural Gas,7318220
+AL,7,Other,4269421
+AL,7,Solar Thermal and Photovoltaic,128195
+AL,7,Total,14013246
+AR,7,Coal,1764743
+AR,7,Hydroelectric Conventional,159971
+AR,7,Natural Gas,2883588
+AR,7,Other,1435230
+AR,7,Solar Thermal and Photovoltaic,238116
+AR,7,Total,6481648
+AZ,7,Coal,1098623
+AZ,7,Hydroelectric Conventional,480052
+AZ,7,Natural Gas,6652453
+AZ,7,Other,2982263
+AZ,7,Solar Thermal and Photovoltaic,1229342
+AZ,7,Total,12660389
+AZ,7,Wind,217657
+CA,7,Coal,23024
+CA,7,Hydroelectric Conventional,3410632
+CA,7,Natural Gas,10940184
+CA,7,Other,3108839
+CA,7,Solar Thermal and Photovoltaic,5529562
+CA,7,Total,24190941
+CA,7,Wind,1178700
+CO,7,Coal,1678937
+CO,7,Hydroelectric Conventional,164654
+CO,7,Natural Gas,2062507
+CO,7,Other,16816
+CO,7,Solar Thermal and Photovoltaic,556785
+CO,7,Total,5703499
+CO,7,Wind,1223800
+CT,7,Coal,0
+CT,7,Hydroelectric Conventional,32844
+CT,7,Natural Gas,2766137
+CT,7,Other,1654134
+CT,7,Solar Thermal and Photovoltaic,53402
+CT,7,Total,4507001
+CT,7,Wind,483
+DC,7,Natural Gas,10949
+DC,7,Other,4223
+DC,7,Solar Thermal and Photovoltaic,5703
+DC,7,Total,20875
+DE,7,Coal,26134
+DE,7,Natural Gas,658028
+DE,7,Other,31603
+DE,7,Solar Thermal and Photovoltaic,19232
+DE,7,Total,735025
+DE,7,Wind,28
+FL,7,Coal,1120477
+FL,7,Hydroelectric Conventional,17272
+FL,7,Natural Gas,21486915
+FL,7,Other,3295374
+FL,7,Solar Thermal and Photovoltaic,1771185
+FL,7,Total,27691224
+GA,7,Coal,2187863
+GA,7,Hydroelectric Conventional,136963
+GA,7,Natural Gas,6255708
+GA,7,Other,4702110
+GA,7,Solar Thermal and Photovoltaic,866513
+GA,7,Total,14149158
+HI,7,Hydroelectric Conventional,7937
+HI,7,Other,645490
+HI,7,Solar Thermal and Photovoltaic,78194
+HI,7,Total,798085
+HI,7,Wind,66464
+IA,7,Coal,1905856
+IA,7,Hydroelectric Conventional,111168
+IA,7,Natural Gas,1326110
+IA,7,Other,25099
+IA,7,Solar Thermal and Photovoltaic,76520
+IA,7,Total,5430860
+IA,7,Wind,1986108
+ID,7,Coal,0
+ID,7,Hydroelectric Conventional,791723
+ID,7,Natural Gas,644543
+ID,7,Other,32355
+ID,7,Solar Thermal and Photovoltaic,137511
+ID,7,Total,1758588
+ID,7,Wind,152456
+IL,7,Coal,2862018
+IL,7,Hydroelectric Conventional,5511
+IL,7,Natural Gas,4333606
+IL,7,Other,8703804
+IL,7,Solar Thermal and Photovoltaic,292423
+IL,7,Total,17201494
+IL,7,Wind,1004133
+IN,7,Coal,4591960
+IN,7,Hydroelectric Conventional,33112
+IN,7,Natural Gas,4010152
+IN,7,Other,224825
+IN,7,Solar Thermal and Photovoltaic,382839
+IN,7,Total,9642666
+IN,7,Wind,399778
+KS,7,Coal,1901420
+KS,7,Hydroelectric Conventional,3396
+KS,7,Natural Gas,762501
+KS,7,Other,903456
+KS,7,Solar Thermal and Photovoltaic,9923
+KS,7,Total,5707462
+KS,7,Wind,2126766
+KY,7,Coal,4560620
+KY,7,Hydroelectric Conventional,263009
+KY,7,Natural Gas,2170222
+KY,7,Other,41581
+KY,7,Solar Thermal and Photovoltaic,30617
+KY,7,Total,7066049
+LA,7,Coal,298181
+LA,7,Hydroelectric Conventional,48075
+LA,7,Natural Gas,7709632
+LA,7,Other,1812590
+LA,7,Solar Thermal and Photovoltaic,128075
+LA,7,Total,9996553
+MA,7,Coal,0
+MA,7,Hydroelectric Conventional,97333
+MA,7,Natural Gas,1911533
+MA,7,Other,131151
+MA,7,Solar Thermal and Photovoltaic,236934
+MA,7,Total,2386609
+MA,7,Wind,9658
+MD,7,Coal,385069
+MD,7,Hydroelectric Conventional,55486
+MD,7,Natural Gas,1943592
+MD,7,Other,1253554
+MD,7,Solar Thermal and Photovoltaic,121290
+MD,7,Total,3785690
+MD,7,Wind,26700
+ME,7,Coal,1625
+ME,7,Hydroelectric Conventional,301671
+ME,7,Natural Gas,527691
+ME,7,Other,156592
+ME,7,Solar Thermal and Photovoltaic,131674
+ME,7,Total,1255798
+ME,7,Wind,136546
+MI,7,Coal,2929872
+MI,7,Hydroelectric Conventional,132779
+MI,7,Natural Gas,6248190
+MI,7,Other,2709757
+MI,7,Solar Thermal and Photovoltaic,232350
+MI,7,Total,12645406
+MI,7,Wind,392457
+MN,7,Coal,1286210
+MN,7,Hydroelectric Conventional,71575
+MN,7,Natural Gas,2071088
+MN,7,Other,1399148
+MN,7,Solar Thermal and Photovoltaic,256864
+MN,7,Total,5781220
+MN,7,Wind,696337
+MO,7,Coal,4475473
+MO,7,Hydroelectric Conventional,32670
+MO,7,Natural Gas,1658015
+MO,7,Other,927741
+MO,7,Solar Thermal and Photovoltaic,19062
+MO,7,Total,7464513
+MO,7,Wind,351553
+MS,7,Coal,315570
+MS,7,Natural Gas,6121851
+MS,7,Other,1140022
+MS,7,Solar Thermal and Photovoltaic,184314
+MS,7,Total,7780290
+MS,7,Wind,18534
+MT,7,Coal,788829
+MT,7,Hydroelectric Conventional,833526
+MT,7,Natural Gas,130170
+MT,7,Other,59686
+MT,7,Solar Thermal and Photovoltaic,50506
+MT,7,Total,2161874
+MT,7,Wind,299157
+NC,7,Coal,2148911
+NC,7,Hydroelectric Conventional,252636
+NC,7,Natural Gas,6310016
+NC,7,Other,3988194
+NC,7,Solar Thermal and Photovoltaic,1290869
+NC,7,Total,14020168
+NC,7,Wind,29542
+ND,7,Coal,2237976
+ND,7,Hydroelectric Conventional,201880
+ND,7,Natural Gas,328874
+ND,7,Other,6081
+ND,7,Total,3532964
+ND,7,Wind,758155
+NE,7,Coal,1657929
+NE,7,Hydroelectric Conventional,109183
+NE,7,Natural Gas,347286
+NE,7,Other,583689
+NE,7,Solar Thermal and Photovoltaic,25624
+NE,7,Total,3337927
+NE,7,Wind,614215
+NH,7,Coal,47884
+NH,7,Hydroelectric Conventional,93932
+NH,7,Natural Gas,255946
+NH,7,Other,1004799
+NH,7,Solar Thermal and Photovoltaic,367
+NH,7,Total,1424901
+NH,7,Wind,21973
+NJ,7,Coal,0
+NJ,7,Hydroelectric Conventional,0
+NJ,7,Natural Gas,3946868
+NJ,7,Other,2642823
+NJ,7,Solar Thermal and Photovoltaic,186064
+NJ,7,Total,6776835
+NJ,7,Wind,1080
+NM,7,Coal,952362
+NM,7,Hydroelectric Conventional,17735
+NM,7,Natural Gas,1388103
+NM,7,Other,-785
+NM,7,Solar Thermal and Photovoltaic,459439
+NM,7,Total,3727451
+NM,7,Wind,910596
+NV,7,Coal,266180
+NV,7,Hydroelectric Conventional,137282
+NV,7,Natural Gas,3016889
+NV,7,Other,301563
+NV,7,Solar Thermal and Photovoltaic,1481836
+NV,7,Total,5218017
+NV,7,Wind,14268
+NY,7,Coal,0
+NY,7,Hydroelectric Conventional,2396726
+NY,7,Natural Gas,7702029
+NY,7,Other,2634586
+NY,7,Solar Thermal and Photovoltaic,355503
+NY,7,Total,13399714
+NY,7,Wind,310870
+OH,7,Coal,3184923
+OH,7,Hydroelectric Conventional,34821
+OH,7,Natural Gas,8323002
+OH,7,Other,1755591
+OH,7,Solar Thermal and Photovoltaic,536026
+OH,7,Total,13951108
+OH,7,Wind,116746
+OK,7,Coal,605612
+OK,7,Hydroelectric Conventional,57569
+OK,7,Natural Gas,5730115
+OK,7,Other,29526
+OK,7,Solar Thermal and Photovoltaic,44979
+OK,7,Total,9460261
+OK,7,Wind,2992460
+OR,7,Hydroelectric Conventional,2081365
+OR,7,Natural Gas,2354244
+OR,7,Other,102052
+OR,7,Solar Thermal and Photovoltaic,259244
+OR,7,Total,5583678
+OR,7,Wind,786773
+PA,7,Coal,1957783
+PA,7,Hydroelectric Conventional,163106
+PA,7,Natural Gas,15329968
+PA,7,Other,6535721
+PA,7,Solar Thermal and Photovoltaic,148769
+PA,7,Total,24306703
+PA,7,Wind,171357
+RI,7,Coal,0
+RI,7,Hydroelectric Conventional,290
+RI,7,Natural Gas,1028312
+RI,7,Other,22428
+RI,7,Solar Thermal and Photovoltaic,66314
+RI,7,Total,1126921
+RI,7,Wind,9576
+SC,7,Coal,2151281
+SC,7,Hydroelectric Conventional,86436
+SC,7,Natural Gas,2212761
+SC,7,Other,5082529
+SC,7,Solar Thermal and Photovoltaic,310898
+SC,7,Total,9843905
+SD,7,Coal,184192
+SD,7,Hydroelectric Conventional,400067
+SD,7,Natural Gas,372799
+SD,7,Other,4323
+SD,7,Solar Thermal and Photovoltaic,55707
+SD,7,Total,1678558
+SD,7,Wind,661469
+TN,7,Coal,2265745
+TN,7,Hydroelectric Conventional,492839
+TN,7,Natural Gas,1849056
+TN,7,Other,2661170
+TN,7,Solar Thermal and Photovoltaic,114927
+TN,7,Total,7385366
+TN,7,Wind,1627
+TX,7,Coal,6843014
+TX,7,Hydroelectric Conventional,33914
+TX,7,Natural Gas,30414666
+TX,7,Other,3722290
+TX,7,Solar Thermal and Photovoltaic,4167494
+TX,7,Total,54302875
+TX,7,Wind,9121497
+UT,7,Coal,1669683
+UT,7,Hydroelectric Conventional,73439
+UT,7,Natural Gas,1138893
+UT,7,Other,57616
+UT,7,Solar Thermal and Photovoltaic,596551
+UT,7,Total,3582455
+UT,7,Wind,46273
+VA,7,Coal,258701
+VA,7,Hydroelectric Conventional,58824
+VA,7,Natural Gas,6586683
+VA,7,Other,2775487
+VA,7,Solar Thermal and Photovoltaic,771127
+VA,7,Total,10454394
+VA,7,Wind,3572
+VT,7,Hydroelectric Conventional,116577
+VT,7,Natural Gas,90
+VT,7,Other,28263
+VT,7,Solar Thermal and Photovoltaic,25848
+VT,7,Total,188572
+VT,7,Wind,17794
+WA,7,Coal,352154
+WA,7,Hydroelectric Conventional,6247181
+WA,7,Natural Gas,1933173
+WA,7,Other,962434
+WA,7,Solar Thermal and Photovoltaic,55362
+WA,7,Total,10024328
+WA,7,Wind,474025
+WI,7,Coal,1871306
+WI,7,Hydroelectric Conventional,184488
+WI,7,Natural Gas,3077624
+WI,7,Other,994543
+WI,7,Solar Thermal and Photovoltaic,388683
+WI,7,Total,6583955
+WI,7,Wind,67311
+WV,7,Coal,4455655
+WV,7,Hydroelectric Conventional,108407
+WV,7,Natural Gas,336388
+WV,7,Other,21253
+WV,7,Solar Thermal and Photovoltaic,29001
+WV,7,Total,5043063
+WV,7,Wind,92360
+WY,7,Coal,2391226
+WY,7,Hydroelectric Conventional,87762
+WY,7,Natural Gas,780751
+WY,7,Other,40140
+WY,7,Solar Thermal and Photovoltaic,60925
+WY,7,Total,3814014
+WY,7,Wind,453209
+AK,8,Coal,57509
+AK,8,Hydroelectric Conventional,153662
+AK,8,Natural Gas,320074
+AK,8,Other,92300
+AK,8,Solar Thermal and Photovoltaic,1749
+AK,8,Total,631955
+AK,8,Wind,6661
+AL,8,Coal,1883083
+AL,8,Hydroelectric Conventional,708335
+AL,8,Natural Gas,7123314
+AL,8,Other,4210842
+AL,8,Solar Thermal and Photovoltaic,147412
+AL,8,Total,14072986
+AR,8,Coal,1740870
+AR,8,Hydroelectric Conventional,292505
+AR,8,Natural Gas,2760654
+AR,8,Other,1430905
+AR,8,Solar Thermal and Photovoltaic,248728
+AR,8,Total,6473661
+AZ,8,Coal,1022035
+AZ,8,Hydroelectric Conventional,421358
+AZ,8,Natural Gas,6621632
+AZ,8,Other,2988064
+AZ,8,Solar Thermal and Photovoltaic,1160814
+AZ,8,Total,12450195
+AZ,8,Wind,236292
+CA,8,Coal,22135
+CA,8,Hydroelectric Conventional,3348499
+CA,8,Natural Gas,9381439
+CA,8,Other,3001460
+CA,8,Solar Thermal and Photovoltaic,5366092
+CA,8,Total,22337865
+CA,8,Wind,1218240
+CO,8,Coal,1616407
+CO,8,Hydroelectric Conventional,141856
+CO,8,Natural Gas,1888583
+CO,8,Other,5673
+CO,8,Solar Thermal and Photovoltaic,511553
+CO,8,Total,5475222
+CO,8,Wind,1311151
+CT,8,Coal,0
+CT,8,Hydroelectric Conventional,38550
+CT,8,Natural Gas,2653677
+CT,8,Other,1609005
+CT,8,Solar Thermal and Photovoltaic,52330
+CT,8,Total,4354077
+CT,8,Wind,515
+DC,8,Natural Gas,10020
+DC,8,Other,4071
+DC,8,Solar Thermal and Photovoltaic,5636
+DC,8,Total,19727
+DE,8,Coal,14428
+DE,8,Natural Gas,420602
+DE,8,Other,28334
+DE,8,Solar Thermal and Photovoltaic,18382
+DE,8,Total,481784
+DE,8,Wind,37
+FL,8,Coal,1019358
+FL,8,Hydroelectric Conventional,17883
+FL,8,Natural Gas,21318366
+FL,8,Other,3248800
+FL,8,Solar Thermal and Photovoltaic,1742598
+FL,8,Total,27347005
+GA,8,Coal,2201494
+GA,8,Hydroelectric Conventional,305020
+GA,8,Natural Gas,6417664
+GA,8,Other,4992374
+GA,8,Solar Thermal and Photovoltaic,943214
+GA,8,Total,14859764
+HI,8,Hydroelectric Conventional,7575
+HI,8,Other,701255
+HI,8,Solar Thermal and Photovoltaic,72093
+HI,8,Total,840265
+HI,8,Wind,59341
+IA,8,Coal,1802752
+IA,8,Hydroelectric Conventional,93817
+IA,8,Natural Gas,1220669
+IA,8,Other,28263
+IA,8,Solar Thermal and Photovoltaic,74282
+IA,8,Total,5540199
+IA,8,Wind,2320415
+ID,8,Coal,0
+ID,8,Hydroelectric Conventional,702236
+ID,8,Natural Gas,624581
+ID,8,Other,48473
+ID,8,Solar Thermal and Photovoltaic,115756
+ID,8,Total,1655530
+ID,8,Wind,164484
+IL,8,Coal,3103232
+IL,8,Hydroelectric Conventional,6128
+IL,8,Natural Gas,4124595
+IL,8,Other,8593123
+IL,8,Solar Thermal and Photovoltaic,273973
+IL,8,Total,17200380
+IL,8,Wind,1099328
+IN,8,Coal,4167086
+IN,8,Hydroelectric Conventional,37818
+IN,8,Natural Gas,3733985
+IN,8,Other,250297
+IN,8,Solar Thermal and Photovoltaic,405322
+IN,8,Total,9000997
+IN,8,Wind,406489
+KS,8,Coal,1733247
+KS,8,Hydroelectric Conventional,1329
+KS,8,Natural Gas,793517
+KS,8,Other,779696
+KS,8,Solar Thermal and Photovoltaic,8499
+KS,8,Total,5363451
+KS,8,Wind,2047163
+KY,8,Coal,4389976
+KY,8,Hydroelectric Conventional,325224
+KY,8,Natural Gas,2175561
+KY,8,Other,39457
+KY,8,Solar Thermal and Photovoltaic,33740
+KY,8,Total,6963958
+LA,8,Coal,272081
+LA,8,Hydroelectric Conventional,60174
+LA,8,Natural Gas,7909149
+LA,8,Other,1707510
+LA,8,Solar Thermal and Photovoltaic,185074
+LA,8,Total,10133989
+MA,8,Coal,0
+MA,8,Hydroelectric Conventional,100934
+MA,8,Natural Gas,1432645
+MA,8,Other,119814
+MA,8,Solar Thermal and Photovoltaic,236157
+MA,8,Total,1899869
+MA,8,Wind,10318
+MD,8,Coal,175938
+MD,8,Hydroelectric Conventional,154923
+MD,8,Natural Gas,1516762
+MD,8,Other,1358548
+MD,8,Solar Thermal and Photovoltaic,118231
+MD,8,Total,3346767
+MD,8,Wind,22365
+ME,8,Coal,2455
+ME,8,Hydroelectric Conventional,302095
+ME,8,Natural Gas,471393
+ME,8,Other,169823
+ME,8,Solar Thermal and Photovoltaic,126586
+ME,8,Total,1214808
+ME,8,Wind,142458
+MI,8,Coal,2738184
+MI,8,Hydroelectric Conventional,118915
+MI,8,Natural Gas,5948276
+MI,8,Other,2667761
+MI,8,Solar Thermal and Photovoltaic,220901
+MI,8,Total,12141644
+MI,8,Wind,447607
+MN,8,Coal,1148511
+MN,8,Hydroelectric Conventional,66277
+MN,8,Natural Gas,1823645
+MN,8,Other,1385592
+MN,8,Solar Thermal and Photovoltaic,250435
+MN,8,Total,5512714
+MN,8,Wind,838255
+MO,8,Coal,4222906
+MO,8,Hydroelectric Conventional,90332
+MO,8,Natural Gas,1427032
+MO,8,Other,911999
+MO,8,Solar Thermal and Photovoltaic,26276
+MO,8,Total,7050009
+MO,8,Wind,371465
+MS,8,Coal,416886
+MS,8,Natural Gas,5633548
+MS,8,Other,1130440
+MS,8,Solar Thermal and Photovoltaic,233205
+MS,8,Total,7438819
+MS,8,Wind,24740
+MT,8,Coal,993011
+MT,8,Hydroelectric Conventional,741566
+MT,8,Natural Gas,109885
+MT,8,Other,55525
+MT,8,Solar Thermal and Photovoltaic,45063
+MT,8,Total,2306837
+MT,8,Wind,361789
+NC,8,Coal,1550854
+NC,8,Hydroelectric Conventional,411433
+NC,8,Natural Gas,6326868
+NC,8,Other,3974996
+NC,8,Solar Thermal and Photovoltaic,1272417
+NC,8,Total,13561307
+NC,8,Wind,24738
+ND,8,Coal,2099741
+ND,8,Hydroelectric Conventional,180453
+ND,8,Natural Gas,310819
+ND,8,Other,7496
+ND,8,Total,3641877
+ND,8,Wind,1043369
+NE,8,Coal,1973031
+NE,8,Hydroelectric Conventional,97405
+NE,8,Natural Gas,250938
+NE,8,Other,512561
+NE,8,Solar Thermal and Photovoltaic,20966
+NE,8,Total,3559943
+NE,8,Wind,705043
+NH,8,Coal,18333
+NH,8,Hydroelectric Conventional,138265
+NH,8,Natural Gas,631936
+NH,8,Other,1006774
+NH,8,Solar Thermal and Photovoltaic,370
+NH,8,Total,1814620
+NH,8,Wind,18942
+NJ,8,Coal,0
+NJ,8,Hydroelectric Conventional,0
+NJ,8,Natural Gas,2785048
+NJ,8,Other,2661328
+NJ,8,Solar Thermal and Photovoltaic,186204
+NJ,8,Total,5633736
+NJ,8,Wind,1156
+NM,8,Coal,745737
+NM,8,Hydroelectric Conventional,15541
+NM,8,Natural Gas,1095438
+NM,8,Other,-1337
+NM,8,Solar Thermal and Photovoltaic,438512
+NM,8,Total,3198294
+NM,8,Wind,904405
+NV,8,Coal,275267
+NV,8,Hydroelectric Conventional,110375
+NV,8,Natural Gas,2642985
+NV,8,Other,295400
+NV,8,Solar Thermal and Photovoltaic,1351315
+NV,8,Total,4706981
+NV,8,Wind,31639
+NY,8,Coal,0
+NY,8,Hydroelectric Conventional,2321787
+NY,8,Natural Gas,6858225
+NY,8,Other,2394824
+NY,8,Solar Thermal and Photovoltaic,373519
+NY,8,Total,12291302
+NY,8,Wind,342947
+OH,8,Coal,2992099
+OH,8,Hydroelectric Conventional,42050
+OH,8,Natural Gas,8246602
+OH,8,Other,1780955
+OH,8,Solar Thermal and Photovoltaic,485489
+OH,8,Total,13651674
+OH,8,Wind,104479
+OK,8,Coal,882243
+OK,8,Hydroelectric Conventional,145804
+OK,8,Natural Gas,6060537
+OK,8,Other,32924
+OK,8,Solar Thermal and Photovoltaic,44348
+OK,8,Total,10062534
+OK,8,Wind,2896678
+OR,8,Hydroelectric Conventional,1997656
+OR,8,Natural Gas,2349993
+OR,8,Other,95294
+OR,8,Solar Thermal and Photovoltaic,243029
+OR,8,Total,5450199
+OR,8,Wind,764227
+PA,8,Coal,1267785
+PA,8,Hydroelectric Conventional,244550
+PA,8,Natural Gas,14481699
+PA,8,Other,6886733
+PA,8,Solar Thermal and Photovoltaic,140057
+PA,8,Total,23205426
+PA,8,Wind,184602
+RI,8,Coal,0
+RI,8,Hydroelectric Conventional,422
+RI,8,Natural Gas,966207
+RI,8,Other,20079
+RI,8,Solar Thermal and Photovoltaic,65768
+RI,8,Total,1061258
+RI,8,Wind,8781
+SC,8,Coal,1432487
+SC,8,Hydroelectric Conventional,230380
+SC,8,Natural Gas,2594296
+SC,8,Other,5083156
+SC,8,Solar Thermal and Photovoltaic,296626
+SC,8,Total,9636947
+SD,8,Coal,144626
+SD,8,Hydroelectric Conventional,350877
+SD,8,Natural Gas,262247
+SD,8,Other,5097
+SD,8,Solar Thermal and Photovoltaic,48463
+SD,8,Total,1655613
+SD,8,Wind,844303
+TN,8,Coal,1950144
+TN,8,Hydroelectric Conventional,693174
+TN,8,Natural Gas,1861598
+TN,8,Other,2272458
+TN,8,Solar Thermal and Photovoltaic,133925
+TN,8,Total,6912349
+TN,8,Wind,1050
+TX,8,Coal,7370077
+TX,8,Hydroelectric Conventional,96441
+TX,8,Natural Gas,34101932
+TX,8,Other,3952842
+TX,8,Solar Thermal and Photovoltaic,4499362
+TX,8,Total,58513953
+TX,8,Wind,8493297
+UT,8,Coal,1579605
+UT,8,Hydroelectric Conventional,64958
+UT,8,Natural Gas,1126808
+UT,8,Other,59084
+UT,8,Solar Thermal and Photovoltaic,531439
+UT,8,Total,3440325
+UT,8,Wind,78431
+VA,8,Coal,145549
+VA,8,Hydroelectric Conventional,118531
+VA,8,Natural Gas,6584914
+VA,8,Other,2793342
+VA,8,Solar Thermal and Photovoltaic,776132
+VA,8,Total,10420948
+VA,8,Wind,2481
+VT,8,Hydroelectric Conventional,124148
+VT,8,Natural Gas,36
+VT,8,Other,36764
+VT,8,Solar Thermal and Photovoltaic,24184
+VT,8,Total,208954
+VT,8,Wind,23822
+WA,8,Coal,354637
+WA,8,Hydroelectric Conventional,5370961
+WA,8,Natural Gas,1849279
+WA,8,Other,972015
+WA,8,Solar Thermal and Photovoltaic,54288
+WA,8,Total,9094812
+WA,8,Wind,493631
+WI,8,Coal,2072049
+WI,8,Hydroelectric Conventional,167522
+WI,8,Natural Gas,2745850
+WI,8,Other,981911
+WI,8,Solar Thermal and Photovoltaic,362951
+WI,8,Total,6417797
+WI,8,Wind,87514
+WV,8,Coal,4845043
+WV,8,Hydroelectric Conventional,126549
+WV,8,Natural Gas,320269
+WV,8,Other,16047
+WV,8,Solar Thermal and Photovoltaic,26603
+WV,8,Total,5412853
+WV,8,Wind,78342
+WY,8,Coal,2395069
+WY,8,Hydroelectric Conventional,77842
+WY,8,Natural Gas,759115
+WY,8,Other,40056
+WY,8,Solar Thermal and Photovoltaic,55264
+WY,8,Total,3868318
+WY,8,Wind,540972
+AK,9,Coal,71318
+AK,9,Hydroelectric Conventional,106520
+AK,9,Natural Gas,245751
+AK,9,Other,67669
+AK,9,Solar Thermal and Photovoltaic,1433
+AK,9,Total,500092
+AK,9,Wind,7401
+AL,9,Coal,1541532
+AL,9,Hydroelectric Conventional,670654
+AL,9,Natural Gas,6244482
+AL,9,Other,3336205
+AL,9,Solar Thermal and Photovoltaic,98502
+AL,9,Total,11891376
+AR,9,Coal,1464844
+AR,9,Hydroelectric Conventional,266283
+AR,9,Natural Gas,1849763
+AR,9,Other,1259370
+AR,9,Solar Thermal and Photovoltaic,175965
+AR,9,Total,5016225
+AZ,9,Coal,949195
+AZ,9,Hydroelectric Conventional,300677
+AZ,9,Natural Gas,5514942
+AZ,9,Other,2911874
+AZ,9,Solar Thermal and Photovoltaic,1062900
+AZ,9,Total,10924977
+AZ,9,Wind,185389
+CA,9,Coal,21473
+CA,9,Hydroelectric Conventional,2575685
+CA,9,Natural Gas,8349503
+CA,9,Other,2798668
+CA,9,Solar Thermal and Photovoltaic,4563668
+CA,9,Total,19319827
+CA,9,Wind,1010831
+CO,9,Coal,1552922
+CO,9,Hydroelectric Conventional,107873
+CO,9,Natural Gas,1252067
+CO,9,Other,7660
+CO,9,Solar Thermal and Photovoltaic,468575
+CO,9,Total,4810362
+CO,9,Wind,1421265
+CT,9,Coal,0
+CT,9,Hydroelectric Conventional,33236
+CT,9,Natural Gas,2332775
+CT,9,Other,1163817
+CT,9,Solar Thermal and Photovoltaic,45113
+CT,9,Total,3575407
+CT,9,Wind,467
+DC,9,Natural Gas,10549
+DC,9,Other,4313
+DC,9,Solar Thermal and Photovoltaic,4659
+DC,9,Total,19521
+DE,9,Coal,-2114
+DE,9,Natural Gas,332655
+DE,9,Other,20485
+DE,9,Solar Thermal and Photovoltaic,14445
+DE,9,Total,365856
+DE,9,Wind,385
+FL,9,Coal,910940
+FL,9,Hydroelectric Conventional,15851
+FL,9,Natural Gas,20497680
+FL,9,Other,2395212
+FL,9,Solar Thermal and Photovoltaic,1417385
+FL,9,Total,25237067
+GA,9,Coal,1480006
+GA,9,Hydroelectric Conventional,280733
+GA,9,Natural Gas,4981081
+GA,9,Other,3697939
+GA,9,Solar Thermal and Photovoltaic,623693
+GA,9,Total,11063453
+HI,9,Hydroelectric Conventional,7531
+HI,9,Other,666151
+HI,9,Solar Thermal and Photovoltaic,71965
+HI,9,Total,794847
+HI,9,Wind,49200
+IA,9,Coal,1454994
+IA,9,Hydroelectric Conventional,50129
+IA,9,Natural Gas,874369
+IA,9,Other,25742
+IA,9,Solar Thermal and Photovoltaic,65281
+IA,9,Total,5456196
+IA,9,Wind,2985681
+ID,9,Coal,0
+ID,9,Hydroelectric Conventional,500758
+ID,9,Natural Gas,536321
+ID,9,Other,46275
+ID,9,Solar Thermal and Photovoltaic,101865
+ID,9,Total,1371339
+ID,9,Wind,186120
+IL,9,Coal,2361536
+IL,9,Hydroelectric Conventional,5412
+IL,9,Natural Gas,3133808
+IL,9,Other,7714981
+IL,9,Solar Thermal and Photovoltaic,238643
+IL,9,Total,14691442
+IL,9,Wind,1237063
+IN,9,Coal,2873553
+IN,9,Hydroelectric Conventional,33723
+IN,9,Natural Gas,2821220
+IN,9,Other,172774
+IN,9,Solar Thermal and Photovoltaic,324214
+IN,9,Total,6711879
+IN,9,Wind,486395
+KS,9,Coal,1577441
+KS,9,Hydroelectric Conventional,859
+KS,9,Natural Gas,519016
+KS,9,Other,880477
+KS,9,Solar Thermal and Photovoltaic,8681
+KS,9,Total,5186056
+KS,9,Wind,2199584
+KY,9,Coal,3224488
+KY,9,Hydroelectric Conventional,284037
+KY,9,Natural Gas,1822052
+KY,9,Other,39910
+KY,9,Solar Thermal and Photovoltaic,24840
+KY,9,Total,5395328
+LA,9,Coal,375661
+LA,9,Hydroelectric Conventional,53932
+LA,9,Natural Gas,6293795
+LA,9,Other,1697227
+LA,9,Solar Thermal and Photovoltaic,145040
+LA,9,Total,8565655
+MA,9,Coal,0
+MA,9,Hydroelectric Conventional,89308
+MA,9,Natural Gas,912736
+MA,9,Other,129404
+MA,9,Solar Thermal and Photovoltaic,196847
+MA,9,Total,1338320
+MA,9,Wind,10026
+MD,9,Coal,118136
+MD,9,Hydroelectric Conventional,51986
+MD,9,Natural Gas,1081292
+MD,9,Other,1314302
+MD,9,Solar Thermal and Photovoltaic,95527
+MD,9,Total,2702094
+MD,9,Wind,40851
+ME,9,Coal,2634
+ME,9,Hydroelectric Conventional,264313
+ME,9,Natural Gas,432437
+ME,9,Other,140834
+ME,9,Solar Thermal and Photovoltaic,111217
+ME,9,Total,1108102
+ME,9,Wind,156667
+MI,9,Coal,2559397
+MI,9,Hydroelectric Conventional,81996
+MI,9,Natural Gas,4752732
+MI,9,Other,2643751
+MI,9,Solar Thermal and Photovoltaic,188624
+MI,9,Total,10775970
+MI,9,Wind,549471
+MN,9,Coal,876821
+MN,9,Hydroelectric Conventional,45560
+MN,9,Natural Gas,1093599
+MN,9,Other,1218552
+MN,9,Solar Thermal and Photovoltaic,216016
+MN,9,Total,4560744
+MN,9,Wind,1110195
+MO,9,Coal,3223508
+MO,9,Hydroelectric Conventional,77385
+MO,9,Natural Gas,878589
+MO,9,Other,877871
+MO,9,Solar Thermal and Photovoltaic,15858
+MO,9,Total,5485897
+MO,9,Wind,412686
+MS,9,Coal,433306
+MS,9,Natural Gas,4957604
+MS,9,Other,1122051
+MS,9,Solar Thermal and Photovoltaic,156172
+MS,9,Total,6700500
+MS,9,Wind,31367
+MT,9,Coal,1003804
+MT,9,Hydroelectric Conventional,523671
+MT,9,Natural Gas,92182
+MT,9,Other,52202
+MT,9,Solar Thermal and Photovoltaic,36388
+MT,9,Total,2153912
+MT,9,Wind,445665
+NC,9,Coal,761494
+NC,9,Hydroelectric Conventional,363259
+NC,9,Natural Gas,5179204
+NC,9,Other,3266034
+NC,9,Solar Thermal and Photovoltaic,1011565
+NC,9,Total,10617073
+NC,9,Wind,35517
+ND,9,Coal,1675433
+ND,9,Hydroelectric Conventional,125611
+ND,9,Natural Gas,249526
+ND,9,Other,9080
+ND,9,Total,3246224
+ND,9,Wind,1186574
+NE,9,Coal,1635115
+NE,9,Hydroelectric Conventional,68217
+NE,9,Natural Gas,135551
+NE,9,Other,472943
+NE,9,Solar Thermal and Photovoltaic,22303
+NE,9,Total,3346933
+NE,9,Wind,1012804
+NH,9,Coal,0
+NH,9,Hydroelectric Conventional,124903
+NH,9,Natural Gas,610018
+NH,9,Other,971288
+NH,9,Solar Thermal and Photovoltaic,309
+NH,9,Total,1729376
+NH,9,Wind,22858
+NJ,9,Coal,0
+NJ,9,Hydroelectric Conventional,0
+NJ,9,Natural Gas,2144883
+NJ,9,Other,2556948
+NJ,9,Solar Thermal and Photovoltaic,155325
+NJ,9,Total,4858391
+NJ,9,Wind,1234
+NM,9,Coal,797003
+NM,9,Hydroelectric Conventional,11632
+NM,9,Natural Gas,924338
+NM,9,Other,-413
+NM,9,Solar Thermal and Photovoltaic,413155
+NM,9,Total,3109696
+NM,9,Wind,963981
+NV,9,Coal,201528
+NV,9,Hydroelectric Conventional,89732
+NV,9,Natural Gas,2280187
+NV,9,Other,301571
+NV,9,Solar Thermal and Photovoltaic,1224588
+NV,9,Total,4117405
+NV,9,Wind,19798
+NY,9,Coal,0
+NY,9,Hydroelectric Conventional,2131184
+NY,9,Natural Gas,5485431
+NY,9,Other,1972689
+NY,9,Solar Thermal and Photovoltaic,317723
+NY,9,Total,10264507
+NY,9,Wind,357480
+OH,9,Coal,2015329
+OH,9,Hydroelectric Conventional,37615
+OH,9,Natural Gas,7573127
+OH,9,Other,1713256
+OH,9,Solar Thermal and Photovoltaic,424721
+OH,9,Total,11906382
+OH,9,Wind,142335
+OK,9,Coal,565710
+OK,9,Hydroelectric Conventional,134674
+OK,9,Natural Gas,4223532
+OK,9,Other,22037
+OK,9,Solar Thermal and Photovoltaic,37336
+OK,9,Total,7308700
+OK,9,Wind,2325410
+OR,9,Hydroelectric Conventional,1630928
+OR,9,Natural Gas,2168948
+OR,9,Other,88847
+OR,9,Solar Thermal and Photovoltaic,195163
+OR,9,Total,4843169
+OR,9,Wind,759282
+PA,9,Coal,242658
+PA,9,Hydroelectric Conventional,221264
+PA,9,Natural Gas,12110717
+PA,9,Other,6428591
+PA,9,Solar Thermal and Photovoltaic,107817
+PA,9,Total,19338139
+PA,9,Wind,227092
+RI,9,Coal,0
+RI,9,Hydroelectric Conventional,838
+RI,9,Natural Gas,732378
+RI,9,Other,20265
+RI,9,Solar Thermal and Photovoltaic,56280
+RI,9,Total,819947
+RI,9,Wind,10186
+SC,9,Coal,1336489
+SC,9,Hydroelectric Conventional,214136
+SC,9,Natural Gas,2078709
+SC,9,Other,4499319
+SC,9,Solar Thermal and Photovoltaic,224814
+SC,9,Total,8353468
+SD,9,Coal,107117
+SD,9,Hydroelectric Conventional,258648
+SD,9,Natural Gas,156341
+SD,9,Other,2407
+SD,9,Solar Thermal and Photovoltaic,45614
+SD,9,Total,1491015
+SD,9,Wind,920888
+TN,9,Coal,1498342
+TN,9,Hydroelectric Conventional,625086
+TN,9,Natural Gas,1659292
+TN,9,Other,2350475
+TN,9,Solar Thermal and Photovoltaic,85295
+TN,9,Total,6219093
+TN,9,Wind,602
+TX,9,Coal,6676845
+TX,9,Hydroelectric Conventional,87735
+TX,9,Natural Gas,28574888
+TX,9,Other,3838820
+TX,9,Solar Thermal and Photovoltaic,3964516
+TX,9,Total,50206279
+TX,9,Wind,7063475
+UT,9,Coal,1759661
+UT,9,Hydroelectric Conventional,46680
+UT,9,Natural Gas,940534
+UT,9,Other,53724
+UT,9,Solar Thermal and Photovoltaic,473457
+UT,9,Total,3322912
+UT,9,Wind,48856
+VA,9,Coal,58913
+VA,9,Hydroelectric Conventional,117241
+VA,9,Natural Gas,5570593
+VA,9,Other,2772686
+VA,9,Solar Thermal and Photovoltaic,566522
+VA,9,Total,9089811
+VA,9,Wind,3855
+VT,9,Hydroelectric Conventional,108606
+VT,9,Natural Gas,6
+VT,9,Other,48827
+VT,9,Solar Thermal and Photovoltaic,21603
+VT,9,Total,201044
+VT,9,Wind,22001
+WA,9,Coal,273847
+WA,9,Hydroelectric Conventional,3553014
+WA,9,Natural Gas,1663503
+WA,9,Other,924256
+WA,9,Solar Thermal and Photovoltaic,43009
+WA,9,Total,7015970
+WA,9,Wind,558342
+WI,9,Coal,1887320
+WI,9,Hydroelectric Conventional,117700
+WI,9,Natural Gas,2204345
+WI,9,Other,912123
+WI,9,Solar Thermal and Photovoltaic,324932
+WI,9,Total,5557260
+WI,9,Wind,110841
+WV,9,Coal,2971491
+WV,9,Hydroelectric Conventional,112988
+WV,9,Natural Gas,356067
+WV,9,Other,10919
+WV,9,Solar Thermal and Photovoltaic,21436
+WV,9,Total,3592694
+WV,9,Wind,119792
+WY,9,Coal,2088417
+WY,9,Hydroelectric Conventional,55955
+WY,9,Natural Gas,558321
+WY,9,Other,20374
+WY,9,Solar Thermal and Photovoltaic,52857
+WY,9,Total,3331216
+WY,9,Wind,555293
+AK,10,Coal,49178
+AK,10,Hydroelectric Conventional,105722
+AK,10,Natural Gas,164825
+AK,10,Other,89404
+AK,10,Solar Thermal and Photovoltaic,1340
+AK,10,Total,420921
+AK,10,Wind,10454
+AL,10,Coal,1914275
+AL,10,Hydroelectric Conventional,733729
+AL,10,Natural Gas,4238158
+AL,10,Other,4053278
+AL,10,Solar Thermal and Photovoltaic,120493
+AL,10,Total,11059931
+AR,10,Coal,1294268
+AR,10,Hydroelectric Conventional,244128
+AR,10,Natural Gas,1785263
+AR,10,Other,737510
+AR,10,Solar Thermal and Photovoltaic,273787
+AR,10,Total,4334955
+AZ,10,Coal,786007
+AZ,10,Hydroelectric Conventional,313180
+AZ,10,Natural Gas,5657492
+AZ,10,Other,2116110
+AZ,10,Solar Thermal and Photovoltaic,938798
+AZ,10,Total,10004890
+AZ,10,Wind,193302
+CA,10,Coal,15333
+CA,10,Hydroelectric Conventional,1535913
+CA,10,Natural Gas,8605893
+CA,10,Other,2854431
+CA,10,Solar Thermal and Photovoltaic,3870279
+CA,10,Total,18026359
+CA,10,Wind,1144512
+CO,10,Coal,1354769
+CO,10,Hydroelectric Conventional,95650
+CO,10,Natural Gas,1055204
+CO,10,Other,9551
+CO,10,Solar Thermal and Photovoltaic,382678
+CO,10,Total,4479372
+CO,10,Wind,1581520
+CT,10,Coal,0
+CT,10,Hydroelectric Conventional,33807
+CT,10,Natural Gas,2208460
+CT,10,Other,1063756
+CT,10,Solar Thermal and Photovoltaic,43965
+CT,10,Total,3350865
+CT,10,Wind,876
+DC,10,Natural Gas,5574
+DC,10,Other,4887
+DC,10,Solar Thermal and Photovoltaic,4427
+DC,10,Total,14888
+DE,10,Coal,-1936
+DE,10,Natural Gas,433807
+DE,10,Other,22340
+DE,10,Solar Thermal and Photovoltaic,15234
+DE,10,Total,469845
+DE,10,Wind,400
+FL,10,Coal,286906
+FL,10,Hydroelectric Conventional,16758
+FL,10,Natural Gas,17568829
+FL,10,Other,2151614
+FL,10,Solar Thermal and Photovoltaic,1422641
+FL,10,Total,21446747
+GA,10,Coal,1050599
+GA,10,Hydroelectric Conventional,236121
+GA,10,Natural Gas,4549958
+GA,10,Other,4308084
+GA,10,Solar Thermal and Photovoltaic,779464
+GA,10,Total,10924228
+HI,10,Hydroelectric Conventional,6412
+HI,10,Other,709289
+HI,10,Solar Thermal and Photovoltaic,70359
+HI,10,Total,836189
+HI,10,Wind,50128
+IA,10,Coal,1076949
+IA,10,Hydroelectric Conventional,46122
+IA,10,Natural Gas,484761
+IA,10,Other,21155
+IA,10,Solar Thermal and Photovoltaic,61773
+IA,10,Total,6233699
+IA,10,Wind,4542939
+ID,10,Coal,0
+ID,10,Hydroelectric Conventional,507743
+ID,10,Natural Gas,304558
+ID,10,Other,50683
+ID,10,Solar Thermal and Photovoltaic,82979
+ID,10,Total,1198055
+ID,10,Wind,252092
+IL,10,Coal,1904471
+IL,10,Hydroelectric Conventional,5463
+IL,10,Natural Gas,2971605
+IL,10,Other,7928635
+IL,10,Solar Thermal and Photovoltaic,244026
+IL,10,Total,15274203
+IL,10,Wind,2220003
+IN,10,Coal,2293220
+IN,10,Hydroelectric Conventional,34706
+IN,10,Natural Gas,3398781
+IN,10,Other,99352
+IN,10,Solar Thermal and Photovoltaic,314782
+IN,10,Total,6946259
+IN,10,Wind,805418
+KS,10,Coal,547179
+KS,10,Hydroelectric Conventional,1187
+KS,10,Natural Gas,386240
+KS,10,Other,900012
+KS,10,Solar Thermal and Photovoltaic,6434
+KS,10,Total,4708452
+KS,10,Wind,2867399
+KY,10,Coal,2978069
+KY,10,Hydroelectric Conventional,305253
+KY,10,Natural Gas,1041495
+KY,10,Other,33639
+KY,10,Solar Thermal and Photovoltaic,26135
+KY,10,Total,4384592
+LA,10,Coal,159259
+LA,10,Hydroelectric Conventional,54234
+LA,10,Natural Gas,5857818
+LA,10,Other,1782130
+LA,10,Solar Thermal and Photovoltaic,155989
+LA,10,Total,8009429
+MA,10,Coal,0
+MA,10,Hydroelectric Conventional,93706
+MA,10,Natural Gas,1166247
+MA,10,Other,118464
+MA,10,Solar Thermal and Photovoltaic,190095
+MA,10,Total,1584855
+MA,10,Wind,16343
+MD,10,Coal,168207
+MD,10,Hydroelectric Conventional,42813
+MD,10,Natural Gas,1543718
+MD,10,Other,1300941
+MD,10,Solar Thermal and Photovoltaic,97899
+MD,10,Total,3192460
+MD,10,Wind,38882
+ME,10,Coal,2383
+ME,10,Hydroelectric Conventional,281743
+ME,10,Natural Gas,295169
+ME,10,Other,147828
+ME,10,Solar Thermal and Photovoltaic,101153
+ME,10,Total,1095540
+ME,10,Wind,267264
+MI,10,Coal,2582214
+MI,10,Hydroelectric Conventional,81050
+MI,10,Natural Gas,3365808
+MI,10,Other,2855329
+MI,10,Solar Thermal and Photovoltaic,173968
+MI,10,Total,10013778
+MI,10,Wind,955409
+MN,10,Coal,500925
+MN,10,Hydroelectric Conventional,43806
+MN,10,Natural Gas,842077
+MN,10,Other,975467
+MN,10,Solar Thermal and Photovoltaic,193220
+MN,10,Total,3956720
+MN,10,Wind,1401225
+MO,10,Coal,2755531
+MO,10,Hydroelectric Conventional,63493
+MO,10,Natural Gas,733978
+MO,10,Other,906532
+MO,10,Solar Thermal and Photovoltaic,22207
+MO,10,Total,5098920
+MO,10,Wind,617178
+MS,10,Coal,117961
+MS,10,Natural Gas,4092779
+MS,10,Other,1154299
+MS,10,Solar Thermal and Photovoltaic,201472
+MS,10,Total,5604752
+MS,10,Wind,38240
+MT,10,Coal,945737
+MT,10,Hydroelectric Conventional,527221
+MT,10,Natural Gas,92234
+MT,10,Other,24593
+MT,10,Solar Thermal and Photovoltaic,27477
+MT,10,Total,2084270
+MT,10,Wind,467008
+NC,10,Coal,515428
+NC,10,Hydroelectric Conventional,356980
+NC,10,Natural Gas,4447919
+NC,10,Other,3712209
+NC,10,Solar Thermal and Photovoltaic,1063521
+NC,10,Total,10128324
+NC,10,Wind,32268
+ND,10,Coal,1719003
+ND,10,Hydroelectric Conventional,125074
+ND,10,Natural Gas,185509
+ND,10,Other,8885
+ND,10,Total,3392026
+ND,10,Wind,1353555
+NE,10,Coal,1305294
+NE,10,Hydroelectric Conventional,68251
+NE,10,Natural Gas,102486
+NE,10,Other,9959
+NE,10,Solar Thermal and Photovoltaic,19574
+NE,10,Total,2706079
+NE,10,Wind,1200515
+NH,10,Coal,0
+NH,10,Hydroelectric Conventional,121068
+NH,10,Natural Gas,723939
+NH,10,Other,181474
+NH,10,Solar Thermal and Photovoltaic,304
+NH,10,Total,1071160
+NH,10,Wind,44375
+NJ,10,Coal,0
+NJ,10,Hydroelectric Conventional,0
+NJ,10,Natural Gas,2665181
+NJ,10,Other,1963756
+NJ,10,Solar Thermal and Photovoltaic,153284
+NJ,10,Total,4783534
+NJ,10,Wind,1312
+NM,10,Coal,583793
+NM,10,Hydroelectric Conventional,12268
+NM,10,Natural Gas,739115
+NM,10,Other,-2104
+NM,10,Solar Thermal and Photovoltaic,399890
+NM,10,Total,3022755
+NM,10,Wind,1289793
+NV,10,Coal,164892
+NV,10,Hydroelectric Conventional,145375
+NV,10,Natural Gas,2205957
+NV,10,Other,261421
+NV,10,Solar Thermal and Photovoltaic,1059421
+NV,10,Total,3862526
+NV,10,Wind,25460
+NY,10,Coal,0
+NY,10,Hydroelectric Conventional,2142152
+NY,10,Natural Gas,4706868
+NY,10,Other,2432326
+NY,10,Solar Thermal and Photovoltaic,308874
+NY,10,Total,10124926
+NY,10,Wind,534705
+OH,10,Coal,2389387
+OH,10,Hydroelectric Conventional,38162
+OH,10,Natural Gas,5352932
+OH,10,Other,1677563
+OH,10,Solar Thermal and Photovoltaic,418573
+OH,10,Total,10092641
+OH,10,Wind,216023
+OK,10,Coal,704157
+OK,10,Hydroelectric Conventional,116958
+OK,10,Natural Gas,3135399
+OK,10,Other,28921
+OK,10,Solar Thermal and Photovoltaic,33812
+OK,10,Total,7374273
+OK,10,Wind,3355027
+OR,10,Hydroelectric Conventional,1656484
+OR,10,Natural Gas,1961310
+OR,10,Other,83672
+OR,10,Solar Thermal and Photovoltaic,159448
+OR,10,Total,4548641
+OR,10,Wind,687727
+PA,10,Coal,576378
+PA,10,Hydroelectric Conventional,209688
+PA,10,Natural Gas,9767885
+PA,10,Other,6110342
+PA,10,Solar Thermal and Photovoltaic,108711
+PA,10,Total,17079262
+PA,10,Wind,306258
+RI,10,Coal,0
+RI,10,Hydroelectric Conventional,313
+RI,10,Natural Gas,808819
+RI,10,Other,15005
+RI,10,Solar Thermal and Photovoltaic,52605
+RI,10,Total,889285
+RI,10,Wind,12544
+SC,10,Coal,1304446
+SC,10,Hydroelectric Conventional,179609
+SC,10,Natural Gas,2246022
+SC,10,Other,3238984
+SC,10,Solar Thermal and Photovoltaic,250351
+SC,10,Total,7219413
+SD,10,Coal,32161
+SD,10,Hydroelectric Conventional,268697
+SD,10,Natural Gas,129134
+SD,10,Other,2561
+SD,10,Solar Thermal and Photovoltaic,30657
+SD,10,Total,1580229
+SD,10,Wind,1117018
+TN,10,Coal,1140068
+TN,10,Hydroelectric Conventional,610925
+TN,10,Natural Gas,1029633
+TN,10,Other,1940349
+TN,10,Solar Thermal and Photovoltaic,102945
+TN,10,Total,4825030
+TN,10,Wind,1110
+TX,10,Coal,5662682
+TX,10,Hydroelectric Conventional,64768
+TX,10,Natural Gas,24497553
+TX,10,Other,2801266
+TX,10,Solar Thermal and Photovoltaic,4092657
+TX,10,Total,47671691
+TX,10,Wind,10552764
+UT,10,Coal,1892280
+UT,10,Hydroelectric Conventional,47812
+UT,10,Natural Gas,1007335
+UT,10,Other,51182
+UT,10,Solar Thermal and Photovoltaic,392971
+UT,10,Total,3453259
+UT,10,Wind,61679
+VA,10,Coal,207604
+VA,10,Hydroelectric Conventional,98144
+VA,10,Natural Gas,3844519
+VA,10,Other,2792776
+VA,10,Solar Thermal and Photovoltaic,666320
+VA,10,Total,7612763
+VA,10,Wind,3400
+VT,10,Hydroelectric Conventional,113074
+VT,10,Natural Gas,23
+VT,10,Other,18058
+VT,10,Solar Thermal and Photovoltaic,19664
+VT,10,Total,187302
+VT,10,Wind,36483
+WA,10,Coal,383589
+WA,10,Hydroelectric Conventional,3748998
+WA,10,Natural Gas,1388572
+WA,10,Other,973512
+WA,10,Solar Thermal and Photovoltaic,32157
+WA,10,Total,7245116
+WA,10,Wind,718288
+WI,10,Coal,1466420
+WI,10,Hydroelectric Conventional,114857
+WI,10,Natural Gas,1697667
+WI,10,Other,645651
+WI,10,Solar Thermal and Photovoltaic,275239
+WI,10,Total,4417936
+WI,10,Wind,218101
+WV,10,Coal,2093484
+WV,10,Hydroelectric Conventional,115622
+WV,10,Natural Gas,426176
+WV,10,Other,18603
+WV,10,Solar Thermal and Photovoltaic,21718
+WV,10,Total,2825254
+WV,10,Wind,149651
+WY,10,Coal,2034766
+WY,10,Hydroelectric Conventional,56117
+WY,10,Natural Gas,427060
+WY,10,Other,28398
+WY,10,Solar Thermal and Photovoltaic,39036
+WY,10,Total,3250553
+WY,10,Wind,665177
+AK,11,Coal,56076
+AK,11,Hydroelectric Conventional,156213
+AK,11,Natural Gas,216090
+AK,11,Other,82695
+AK,11,Solar Thermal and Photovoltaic,912
+AK,11,Total,524028
+AK,11,Wind,12043
+AL,11,Coal,1452190
+AL,11,Hydroelectric Conventional,589740
+AL,11,Natural Gas,5103974
+AL,11,Other,4294352
+AL,11,Solar Thermal and Photovoltaic,67528
+AL,11,Total,11507784
+AR,11,Coal,615057
+AR,11,Hydroelectric Conventional,224309
+AR,11,Natural Gas,1645499
+AR,11,Other,1413274
+AR,11,Solar Thermal and Photovoltaic,184927
+AR,11,Total,4083066
+AZ,11,Coal,634240
+AZ,11,Hydroelectric Conventional,341642
+AZ,11,Natural Gas,3978763
+AZ,11,Other,2487080
+AZ,11,Solar Thermal and Photovoltaic,716294
+AZ,11,Total,8404148
+AZ,11,Wind,246130
+CA,11,Coal,22487
+CA,11,Hydroelectric Conventional,1208364
+CA,11,Natural Gas,6945446
+CA,11,Other,2915364
+CA,11,Solar Thermal and Photovoltaic,2842888
+CA,11,Total,15101323
+CA,11,Wind,1166772
+CO,11,Coal,1305937
+CO,11,Hydroelectric Conventional,126500
+CO,11,Natural Gas,1441333
+CO,11,Other,7411
+CO,11,Solar Thermal and Photovoltaic,271985
+CO,11,Total,4624234
+CO,11,Wind,1471069
+CT,11,Coal,0
+CT,11,Hydroelectric Conventional,32991
+CT,11,Natural Gas,2354932
+CT,11,Other,1418977
+CT,11,Solar Thermal and Photovoltaic,30535
+CT,11,Total,3838364
+CT,11,Wind,927
+DC,11,Natural Gas,9314
+DC,11,Other,4373
+DC,11,Solar Thermal and Photovoltaic,2986
+DC,11,Total,16673
+DE,11,Coal,6897
+DE,11,Natural Gas,253091
+DE,11,Other,18826
+DE,11,Solar Thermal and Photovoltaic,10031
+DE,11,Total,289300
+DE,11,Wind,454
+FL,11,Coal,359339
+FL,11,Hydroelectric Conventional,16467
+FL,11,Natural Gas,15305851
+FL,11,Other,2746193
+FL,11,Solar Thermal and Photovoltaic,1309665
+FL,11,Total,19737515
+GA,11,Coal,888946
+GA,11,Hydroelectric Conventional,211833
+GA,11,Natural Gas,4278289
+GA,11,Other,4116046
+GA,11,Solar Thermal and Photovoltaic,520465
+GA,11,Total,10015579
+HI,11,Hydroelectric Conventional,10832
+HI,11,Other,637988
+HI,11,Solar Thermal and Photovoltaic,56013
+HI,11,Total,758007
+HI,11,Wind,53175
+IA,11,Coal,1349660
+IA,11,Hydroelectric Conventional,78097
+IA,11,Natural Gas,554073
+IA,11,Other,16780
+IA,11,Solar Thermal and Photovoltaic,39499
+IA,11,Total,6079807
+IA,11,Wind,4041699
+ID,11,Coal,0
+ID,11,Hydroelectric Conventional,713799
+ID,11,Natural Gas,491699
+ID,11,Other,51334
+ID,11,Solar Thermal and Photovoltaic,48878
+ID,11,Total,1588201
+ID,11,Wind,282491
+IL,11,Coal,1673975
+IL,11,Hydroelectric Conventional,5981
+IL,11,Natural Gas,1785703
+IL,11,Other,8258809
+IL,11,Solar Thermal and Photovoltaic,191595
+IL,11,Total,14379093
+IL,11,Wind,2463032
+IN,11,Coal,3161509
+IN,11,Hydroelectric Conventional,33713
+IN,11,Natural Gas,2817422
+IN,11,Other,180049
+IN,11,Solar Thermal and Photovoltaic,153614
+IN,11,Total,7339887
+IN,11,Wind,993580
+KS,11,Coal,676762
+KS,11,Hydroelectric Conventional,681
+KS,11,Natural Gas,425476
+KS,11,Other,896043
+KS,11,Solar Thermal and Photovoltaic,4312
+KS,11,Total,4675428
+KS,11,Wind,2672154
+KY,11,Coal,2942711
+KY,11,Hydroelectric Conventional,311371
+KY,11,Natural Gas,1093796
+KY,11,Other,42034
+KY,11,Solar Thermal and Photovoltaic,12876
+KY,11,Total,4402788
+LA,11,Coal,223258
+LA,11,Hydroelectric Conventional,52143
+LA,11,Natural Gas,5742084
+LA,11,Other,1770566
+LA,11,Solar Thermal and Photovoltaic,114722
+LA,11,Total,7902772
+MA,11,Coal,0
+MA,11,Hydroelectric Conventional,91466
+MA,11,Natural Gas,1443484
+MA,11,Other,101645
+MA,11,Solar Thermal and Photovoltaic,127361
+MA,11,Total,1786471
+MA,11,Wind,22514
+MD,11,Coal,51626
+MD,11,Hydroelectric Conventional,38885
+MD,11,Natural Gas,792055
+MD,11,Other,1348507
+MD,11,Solar Thermal and Photovoltaic,64952
+MD,11,Total,2366363
+MD,11,Wind,70338
+ME,11,Coal,2077
+ME,11,Hydroelectric Conventional,279513
+ME,11,Natural Gas,253715
+ME,11,Other,149938
+ME,11,Solar Thermal and Photovoltaic,67089
+ME,11,Total,1083070
+ME,11,Wind,330738
+MI,11,Coal,1880512
+MI,11,Hydroelectric Conventional,121472
+MI,11,Natural Gas,4109647
+MI,11,Other,2715316
+MI,11,Solar Thermal and Photovoltaic,92509
+MI,11,Total,9896665
+MI,11,Wind,977211
+MN,11,Coal,801894
+MN,11,Hydroelectric Conventional,63702
+MN,11,Natural Gas,1183751
+MN,11,Other,880197
+MN,11,Solar Thermal and Photovoltaic,139191
+MN,11,Total,4388773
+MN,11,Wind,1320039
+MO,11,Coal,2181995
+MO,11,Hydroelectric Conventional,54304
+MO,11,Natural Gas,524465
+MO,11,Other,903206
+MO,11,Solar Thermal and Photovoltaic,13071
+MO,11,Total,4227363
+MO,11,Wind,550322
+MS,11,Coal,276202
+MS,11,Natural Gas,4023136
+MS,11,Other,685463
+MS,11,Solar Thermal and Photovoltaic,122452
+MS,11,Total,5157159
+MS,11,Wind,49906
+MT,11,Coal,877368
+MT,11,Hydroelectric Conventional,753843
+MT,11,Natural Gas,108686
+MT,11,Other,50039
+MT,11,Solar Thermal and Photovoltaic,15471
+MT,11,Total,2393389
+MT,11,Wind,587982
+NC,11,Coal,943838
+NC,11,Hydroelectric Conventional,293286
+NC,11,Natural Gas,4145982
+NC,11,Other,3945206
+NC,11,Solar Thermal and Photovoltaic,714393
+NC,11,Total,10090278
+NC,11,Wind,47573
+ND,11,Coal,2014609
+ND,11,Hydroelectric Conventional,183446
+ND,11,Natural Gas,219160
+ND,11,Other,7532
+ND,11,Total,3742830
+ND,11,Wind,1318083
+NE,11,Coal,1220633
+NE,11,Hydroelectric Conventional,99020
+NE,11,Natural Gas,73484
+NE,11,Other,494539
+NE,11,Solar Thermal and Photovoltaic,10336
+NE,11,Total,2941930
+NE,11,Wind,1043918
+NH,11,Coal,22389
+NH,11,Hydroelectric Conventional,114436
+NH,11,Natural Gas,12651
+NH,11,Other,590987
+NH,11,Solar Thermal and Photovoltaic,199
+NH,11,Total,799842
+NH,11,Wind,59179
+NJ,11,Coal,0
+NJ,11,Hydroelectric Conventional,0
+NJ,11,Natural Gas,2405689
+NJ,11,Other,1861159
+NJ,11,Solar Thermal and Photovoltaic,100639
+NJ,11,Total,4369292
+NJ,11,Wind,1805
+NM,11,Coal,432037
+NM,11,Hydroelectric Conventional,15796
+NM,11,Natural Gas,579276
+NM,11,Other,1342
+NM,11,Solar Thermal and Photovoltaic,352229
+NM,11,Total,2803960
+NM,11,Wind,1423279
+NV,11,Coal,178098
+NV,11,Hydroelectric Conventional,144245
+NV,11,Natural Gas,1626954
+NV,11,Other,285036
+NV,11,Solar Thermal and Photovoltaic,737553
+NV,11,Total,3004146
+NV,11,Wind,32260
+NY,11,Coal,0
+NY,11,Hydroelectric Conventional,2228303
+NY,11,Natural Gas,4872405
+NY,11,Other,2545988
+NY,11,Solar Thermal and Photovoltaic,223739
+NY,11,Total,10554243
+NY,11,Wind,683810
+OH,11,Coal,1925769
+OH,11,Hydroelectric Conventional,36836
+OH,11,Natural Gas,6880138
+OH,11,Other,1720103
+OH,11,Solar Thermal and Photovoltaic,221969
+OH,11,Total,11082813
+OH,11,Wind,297998
+OK,11,Coal,388408
+OK,11,Hydroelectric Conventional,104444
+OK,11,Natural Gas,3401764
+OK,11,Other,34155
+OK,11,Solar Thermal and Photovoltaic,19784
+OK,11,Total,7217795
+OK,11,Wind,3269241
+OR,11,Hydroelectric Conventional,2372711
+OR,11,Natural Gas,2170267
+OR,11,Other,84631
+OR,11,Solar Thermal and Photovoltaic,93500
+OR,11,Total,5471843
+OR,11,Wind,750735
+PA,11,Coal,686254
+PA,11,Hydroelectric Conventional,201618
+PA,11,Natural Gas,10882355
+PA,11,Other,6325900
+PA,11,Solar Thermal and Photovoltaic,71824
+PA,11,Total,18549502
+PA,11,Wind,381552
+RI,11,Coal,0
+RI,11,Hydroelectric Conventional,366
+RI,11,Natural Gas,681998
+RI,11,Other,1683
+RI,11,Solar Thermal and Photovoltaic,37350
+RI,11,Total,739502
+RI,11,Wind,18105
+SC,11,Coal,1266373
+SC,11,Hydroelectric Conventional,157341
+SC,11,Natural Gas,1561028
+SC,11,Other,3961902
+SC,11,Solar Thermal and Photovoltaic,170528
+SC,11,Total,7117172
+SD,11,Coal,125702
+SD,11,Hydroelectric Conventional,356648
+SD,11,Natural Gas,150293
+SD,11,Other,2510
+SD,11,Solar Thermal and Photovoltaic,19784
+SD,11,Total,1680015
+SD,11,Wind,1025078
+TN,11,Coal,1009569
+TN,11,Hydroelectric Conventional,579719
+TN,11,Natural Gas,1344627
+TN,11,Other,1729193
+TN,11,Solar Thermal and Photovoltaic,61523
+TN,11,Total,4727314
+TN,11,Wind,2683
+TX,11,Coal,5106473
+TX,11,Hydroelectric Conventional,50435
+TX,11,Natural Gas,19817542
+TX,11,Other,2970895
+TX,11,Solar Thermal and Photovoltaic,2958904
+TX,11,Total,41930849
+TX,11,Wind,11026600
+UT,11,Coal,1757419
+UT,11,Hydroelectric Conventional,67418
+UT,11,Natural Gas,800278
+UT,11,Other,58926
+UT,11,Solar Thermal and Photovoltaic,273265
+UT,11,Total,3028081
+UT,11,Wind,70776
+VA,11,Coal,17170
+VA,11,Hydroelectric Conventional,74194
+VA,11,Natural Gas,4176682
+VA,11,Other,2232928
+VA,11,Solar Thermal and Photovoltaic,419939
+VA,11,Total,6925176
+VA,11,Wind,4262
+VT,11,Hydroelectric Conventional,111335
+VT,11,Natural Gas,101
+VT,11,Other,37926
+VT,11,Solar Thermal and Photovoltaic,11924
+VT,11,Total,203705
+VT,11,Wind,42420
+WA,11,Coal,351072
+WA,11,Hydroelectric Conventional,5207947
+WA,11,Natural Gas,1429522
+WA,11,Other,940396
+WA,11,Solar Thermal and Photovoltaic,14687
+WA,11,Total,8715949
+WA,11,Wind,772324
+WI,11,Coal,1678628
+WI,11,Hydroelectric Conventional,169166
+WI,11,Natural Gas,1983729
+WI,11,Other,915129
+WI,11,Solar Thermal and Photovoltaic,102464
+WI,11,Total,5048024
+WI,11,Wind,198909
+WV,11,Coal,2415319
+WV,11,Hydroelectric Conventional,112033
+WV,11,Natural Gas,464996
+WV,11,Other,8441
+WV,11,Solar Thermal and Photovoltaic,13250
+WV,11,Total,3260378
+WV,11,Wind,246338
+WY,11,Coal,2014211
+WY,11,Hydroelectric Conventional,77318
+WY,11,Natural Gas,478720
+WY,11,Other,40997
+WY,11,Solar Thermal and Photovoltaic,26738
+WY,11,Total,3569023
+WY,11,Wind,931039
+AK,12,Coal,71278
+AK,12,Hydroelectric Conventional,180010
+AK,12,Natural Gas,223110
+AK,12,Other,84933
+AK,12,Solar Thermal and Photovoltaic,812
+AK,12,Total,572231
+AK,12,Wind,12089
+AL,12,Coal,1915149
+AL,12,Hydroelectric Conventional,669857
+AL,12,Natural Gas,5147276
+AL,12,Other,4480333
+AL,12,Solar Thermal and Photovoltaic,64966
+AL,12,Total,12277581
+AR,12,Coal,1153898
+AR,12,Hydroelectric Conventional,248941
+AR,12,Natural Gas,1561012
+AR,12,Other,1353459
+AR,12,Solar Thermal and Photovoltaic,164095
+AR,12,Total,4481406
+AZ,12,Coal,829985
+AZ,12,Hydroelectric Conventional,380399
+AZ,12,Natural Gas,4428664
+AZ,12,Other,3014502
+AZ,12,Solar Thermal and Photovoltaic,656803
+AZ,12,Total,9497505
+AZ,12,Wind,187153
+CA,12,Coal,22145
+CA,12,Hydroelectric Conventional,1255327
+CA,12,Natural Gas,7656713
+CA,12,Other,2975598
+CA,12,Solar Thermal and Photovoltaic,2631709
+CA,12,Total,15635224
+CA,12,Wind,1093732
+CO,12,Coal,1471056
+CO,12,Hydroelectric Conventional,151230
+CO,12,Natural Gas,1355363
+CO,12,Other,24664
+CO,12,Solar Thermal and Photovoltaic,258141
+CO,12,Total,4762087
+CO,12,Wind,1501634
+CT,12,Coal,0
+CT,12,Hydroelectric Conventional,37273
+CT,12,Natural Gas,2340352
+CT,12,Other,1669193
+CT,12,Solar Thermal and Photovoltaic,25347
+CT,12,Total,4073100
+CT,12,Wind,935
+DC,12,Natural Gas,11076
+DC,12,Other,4420
+DC,12,Solar Thermal and Photovoltaic,2698
+DC,12,Total,18194
+DE,12,Coal,61181
+DE,12,Natural Gas,275662
+DE,12,Other,22658
+DE,12,Solar Thermal and Photovoltaic,7820
+DE,12,Total,367804
+DE,12,Wind,484
+FL,12,Coal,435237
+FL,12,Hydroelectric Conventional,18548
+FL,12,Natural Gas,13442340
+FL,12,Other,3199637
+FL,12,Solar Thermal and Photovoltaic,1353006
+FL,12,Total,18448769
+GA,12,Coal,1363711
+GA,12,Hydroelectric Conventional,215179
+GA,12,Natural Gas,4459455
+GA,12,Other,4906532
+GA,12,Solar Thermal and Photovoltaic,602521
+GA,12,Total,11547399
+HI,12,Hydroelectric Conventional,6980
+HI,12,Other,704183
+HI,12,Solar Thermal and Photovoltaic,58319
+HI,12,Total,808055
+HI,12,Wind,38574
+IA,12,Coal,1677713
+IA,12,Hydroelectric Conventional,95378
+IA,12,Natural Gas,697625
+IA,12,Other,23678
+IA,12,Solar Thermal and Photovoltaic,34671
+IA,12,Total,6408656
+IA,12,Wind,3879591
+ID,12,Coal,0
+ID,12,Hydroelectric Conventional,809440
+ID,12,Natural Gas,525101
+ID,12,Other,52456
+ID,12,Solar Thermal and Photovoltaic,37453
+ID,12,Total,1701634
+ID,12,Wind,277184
+IL,12,Coal,2097807
+IL,12,Hydroelectric Conventional,6201
+IL,12,Natural Gas,2661736
+IL,12,Other,8943783
+IL,12,Solar Thermal and Photovoltaic,186611
+IL,12,Total,16407331
+IL,12,Wind,2511194
+IN,12,Coal,4389472
+IN,12,Hydroelectric Conventional,37783
+IN,12,Natural Gas,3259112
+IN,12,Other,301132
+IN,12,Solar Thermal and Photovoltaic,161935
+IN,12,Total,9265322
+IN,12,Wind,1115887
+KS,12,Coal,1390698
+KS,12,Hydroelectric Conventional,795
+KS,12,Natural Gas,268819
+KS,12,Other,924415
+KS,12,Solar Thermal and Photovoltaic,5370
+KS,12,Total,4990687
+KS,12,Wind,2400591
+KY,12,Coal,4109101
+KY,12,Hydroelectric Conventional,334219
+KY,12,Natural Gas,1554277
+KY,12,Other,41684
+KY,12,Solar Thermal and Photovoltaic,31675
+KY,12,Total,6070955
+LA,12,Coal,234912
+LA,12,Hydroelectric Conventional,58171
+LA,12,Natural Gas,5667073
+LA,12,Other,1638786
+LA,12,Solar Thermal and Photovoltaic,115930
+LA,12,Total,7714872
+MA,12,Coal,0
+MA,12,Hydroelectric Conventional,102941
+MA,12,Natural Gas,1252045
+MA,12,Other,216682
+MA,12,Solar Thermal and Photovoltaic,116291
+MA,12,Total,1704815
+MA,12,Wind,16858
+MD,12,Coal,334138
+MD,12,Hydroelectric Conventional,167985
+MD,12,Natural Gas,922609
+MD,12,Other,1439245
+MD,12,Solar Thermal and Photovoltaic,56443
+MD,12,Total,2974370
+MD,12,Wind,53950
+ME,12,Coal,3106
+ME,12,Hydroelectric Conventional,316518
+ME,12,Natural Gas,217298
+ME,12,Other,188410
+ME,12,Solar Thermal and Photovoltaic,65928
+ME,12,Total,1061068
+ME,12,Wind,269808
+MI,12,Coal,2720758
+MI,12,Hydroelectric Conventional,140308
+MI,12,Natural Gas,4077021
+MI,12,Other,2876388
+MI,12,Solar Thermal and Photovoltaic,73898
+MI,12,Total,10923452
+MI,12,Wind,1035078
+MN,12,Coal,1264970
+MN,12,Hydroelectric Conventional,72219
+MN,12,Natural Gas,1267720
+MN,12,Other,1005938
+MN,12,Solar Thermal and Photovoltaic,122386
+MN,12,Total,5089886
+MN,12,Wind,1356653
+MO,12,Coal,3658647
+MO,12,Hydroelectric Conventional,57616
+MO,12,Natural Gas,615176
+MO,12,Other,936834
+MO,12,Solar Thermal and Photovoltaic,12112
+MO,12,Total,5828492
+MO,12,Wind,548106
+MS,12,Coal,371949
+MS,12,Natural Gas,4158804
+MS,12,Other,1151852
+MS,12,Solar Thermal and Photovoltaic,128925
+MS,12,Total,5868885
+MS,12,Wind,57355
+MT,12,Coal,1114534
+MT,12,Hydroelectric Conventional,859267
+MT,12,Natural Gas,110131
+MT,12,Other,71627
+MT,12,Solar Thermal and Photovoltaic,11598
+MT,12,Total,2830003
+MT,12,Wind,662845
+NC,12,Coal,1829564
+NC,12,Hydroelectric Conventional,335321
+NC,12,Natural Gas,4926292
+NC,12,Other,4070978
+NC,12,Solar Thermal and Photovoltaic,655838
+NC,12,Total,11891960
+NC,12,Wind,73967
+ND,12,Coal,2276051
+ND,12,Hydroelectric Conventional,210883
+ND,12,Natural Gas,239068
+ND,12,Other,8620
+ND,12,Total,4180608
+ND,12,Wind,1445987
+NE,12,Coal,1726268
+NE,12,Hydroelectric Conventional,113465
+NE,12,Natural Gas,52423
+NE,12,Other,609436
+NE,12,Solar Thermal and Photovoltaic,9068
+NE,12,Total,3578938
+NE,12,Wind,1068277
+NH,12,Coal,100454
+NH,12,Hydroelectric Conventional,126680
+NH,12,Natural Gas,207576
+NH,12,Other,974405
+NH,12,Solar Thermal and Photovoltaic,184
+NH,12,Total,1449501
+NH,12,Wind,40201
+NJ,12,Coal,0
+NJ,12,Hydroelectric Conventional,3
+NJ,12,Natural Gas,2136878
+NJ,12,Other,2761562
+NJ,12,Solar Thermal and Photovoltaic,92024
+NJ,12,Total,4992399
+NJ,12,Wind,1932
+NM,12,Coal,397098
+NM,12,Hydroelectric Conventional,17520
+NM,12,Natural Gas,994101
+NM,12,Other,25967
+NM,12,Solar Thermal and Photovoltaic,359064
+NM,12,Total,3276831
+NM,12,Wind,1483080
+NV,12,Coal,208632
+NV,12,Hydroelectric Conventional,133964
+NV,12,Natural Gas,1813051
+NV,12,Other,350015
+NV,12,Solar Thermal and Photovoltaic,656885
+NV,12,Total,3186943
+NV,12,Wind,24396
+NY,12,Coal,0
+NY,12,Hydroelectric Conventional,2362879
+NY,12,Natural Gas,5457731
+NY,12,Other,2696956
+NY,12,Solar Thermal and Photovoltaic,206643
+NY,12,Total,11375153
+NY,12,Wind,650944
+OH,12,Coal,3102724
+OH,12,Hydroelectric Conventional,41168
+OH,12,Natural Gas,7930761
+OH,12,Other,1792121
+OH,12,Solar Thermal and Photovoltaic,195061
+OH,12,Total,13391910
+OH,12,Wind,330076
+OK,12,Coal,452761
+OK,12,Hydroelectric Conventional,112550
+OK,12,Natural Gas,3530901
+OK,12,Other,30607
+OK,12,Solar Thermal and Photovoltaic,17281
+OK,12,Total,7495673
+OK,12,Wind,3351572
+OR,12,Hydroelectric Conventional,2734145
+OR,12,Natural Gas,2322216
+OR,12,Other,92361
+OR,12,Solar Thermal and Photovoltaic,79638
+OR,12,Total,5848412
+OR,12,Wind,620051
+PA,12,Coal,1700395
+PA,12,Hydroelectric Conventional,226397
+PA,12,Natural Gas,12576968
+PA,12,Other,7155618
+PA,12,Solar Thermal and Photovoltaic,62557
+PA,12,Total,22101220
+PA,12,Wind,379285
+RI,12,Coal,0
+RI,12,Hydroelectric Conventional,462
+RI,12,Natural Gas,619041
+RI,12,Other,10197
+RI,12,Solar Thermal and Photovoltaic,32719
+RI,12,Total,680876
+RI,12,Wind,18458
+SC,12,Coal,1616060
+SC,12,Hydroelectric Conventional,167776
+SC,12,Natural Gas,1724285
+SC,12,Other,5034286
+SC,12,Solar Thermal and Photovoltaic,160477
+SC,12,Total,8702884
+SD,12,Coal,204284
+SD,12,Hydroelectric Conventional,395877
+SD,12,Natural Gas,158238
+SD,12,Other,2398
+SD,12,Solar Thermal and Photovoltaic,15833
+SD,12,Total,1854959
+SD,12,Wind,1078328
+TN,12,Coal,1581465
+TN,12,Hydroelectric Conventional,642902
+TN,12,Natural Gas,1540746
+TN,12,Other,2394594
+TN,12,Solar Thermal and Photovoltaic,51304
+TN,12,Total,6213676
+TN,12,Wind,2665
+TX,12,Coal,5937957
+TX,12,Hydroelectric Conventional,53292
+TX,12,Natural Gas,20617875
+TX,12,Other,4121442
+TX,12,Solar Thermal and Photovoltaic,2569893
+TX,12,Total,43647220
+TX,12,Wind,10346763
+UT,12,Coal,1802263
+UT,12,Hydroelectric Conventional,76103
+UT,12,Natural Gas,1039200
+UT,12,Other,63200
+UT,12,Solar Thermal and Photovoltaic,239625
+UT,12,Total,3274338
+UT,12,Wind,53945
+VA,12,Coal,351850
+VA,12,Hydroelectric Conventional,76993
+VA,12,Natural Gas,4787253
+VA,12,Other,2841109
+VA,12,Solar Thermal and Photovoltaic,400534
+VA,12,Total,8463159
+VA,12,Wind,5421
+VT,12,Hydroelectric Conventional,126480
+VT,12,Natural Gas,118
+VT,12,Other,49838
+VT,12,Solar Thermal and Photovoltaic,8618
+VT,12,Total,217237
+VT,12,Wind,32183
+WA,12,Coal,308692
+WA,12,Hydroelectric Conventional,5802590
+WA,12,Natural Gas,1536254
+WA,12,Other,963779
+WA,12,Solar Thermal and Photovoltaic,11476
+WA,12,Total,9345314
+WA,12,Wind,722523
+WI,12,Coal,2410054
+WI,12,Hydroelectric Conventional,191447
+WI,12,Natural Gas,2203276
+WI,12,Other,996705
+WI,12,Solar Thermal and Photovoltaic,97998
+WI,12,Total,6083895
+WI,12,Wind,184416
+WV,12,Coal,3763829
+WV,12,Hydroelectric Conventional,125419
+WV,12,Natural Gas,216584
+WV,12,Other,17405
+WV,12,Solar Thermal and Photovoltaic,10523
+WV,12,Total,4343830
+WV,12,Wind,210069
+WY,12,Coal,2426619
+WY,12,Hydroelectric Conventional,87427
+WY,12,Natural Gas,578607
+WY,12,Other,44484
+WY,12,Solar Thermal and Photovoltaic,21360
+WY,12,Total,4357326
+WY,12,Wind,1198829
