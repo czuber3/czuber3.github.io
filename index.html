@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>US Choropleth Map by Annual Power Generation</title>
+  <title>Electric Power Generation by U.S. State</title>
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <script src="https://d3js.org/topojson.v3.min.js"></script>
   <script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
@@ -38,6 +38,16 @@
       border-radius: 6px;
       cursor: pointer;
       white-space: nowrap;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+      transition: box-shadow 0.2s ease, transform 0.2s ease;
+    }
+    .buttons button:hover {
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+     transform: translateY(-2px);
+    }
+    .buttons button:active {
+      box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+      transform: translateY(1px);
     }
     svg {
       width: 960px;
@@ -99,6 +109,28 @@
     }
     .annotation-note-label{
       font-size: 14px
+    }
+    select {
+      background-color: white;
+      border-radius: 6px;
+      padding: 8px 12px;
+      font-size: 16px;
+      color: #333;
+      cursor: pointer;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      transition: box-shadow 0.2s ease, transform 0.2s ease;
+    }
+    select {
+      background-repeat: no-repeat;
+      background-position: right 10px center;
+      background-size: 16px;
+    }
+    select:hover {
+      box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    select:focus {
+      outline: none;
+      box-shadow: 0 0 0 2px rgba(0,0,0,0.1);
     }
   </style>
 </head>
@@ -287,7 +319,7 @@
       }
 
       function drawChoropleth(energySource, filteredData=null, finalSlide=false) {
-        title.text(`Electric Power Generation by State - ${energySource}`);
+        title.text(`Electric Power Generation by U.S. State - ${energySource}`);
 
         // Aggregate total power generated per state abbreviation
         if(filteredData == null){
@@ -372,6 +404,8 @@
         paths
           .on("mouseover", function (event, d) {
             if (finalSlide) {
+              d3.select(this).style("cursor", "pointer")
+
               const val = valueById.get(d.id);
               if (val == null) return;
 
@@ -380,8 +414,8 @@
               const annotations = [
                 {
                   note: {
-                    title: d.properties.name,
-                    label: `${val.toLocaleString()} MWh`,
+                    title: `${d.properties.name}`,
+                    label: `Energy Source: ${energySource}\n${val.toLocaleString()} MWh`,
                     bgPadding: { top: 6, bottom: 6, left: 8, right: 8 },
                     wrap: 200
                   },
@@ -400,6 +434,7 @@
             }
           })
           .on("mouseout", () => {
+            d3.select(this).style("cursor", "default");
             annotationGroup.selectAll("*").remove();
           });
 
